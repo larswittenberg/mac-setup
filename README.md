@@ -6,43 +6,43 @@ Mac Einrichtung
 
 ### Basics
 
-* Chrome
-* Chrome Canary
-* Firefox
-* XtraFinder
-* Evernote
-* Dropbox
-* Twitter
-* Spotify
-* Slack
-* Pixelmator
-* TeamViewer
-* Glui
-* The Unarchiver
-* VLC
-* AppCleaner
-* Spectacle ??? 
+* [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
+* [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
+* [Firefox]()
+* [XtraFinder]()
+* [Evernote]()
+* [Dropbox]()
+* [Twitter]()
+* [Spotify]()
+* [Slack]()
+* [Pixelmator]()
+* [TeamViewer]()
+* [Glui]()
+* [The Unarchiver]()
+* [VLC]()
+* [AppCleaner]()
+* [Spectacle ???]()
 
 
 ### Developer Basics
 
-* Sublime Text 3
-* MAMP
-* Tower
-* Sequel Pro
-* FileZilla
-* Virtual Box
-* ImageOptim
-* NodeJS
-* Gulp
-* Browser Sync
+* [Sublime Text 3]()
+* [MAMP]()
+* [Tower]()
+* [Sequel Pro]()
+* [FileZilla]()
+* [Virtual Box]()
+* [ImageOptim]()
+* [NodeJS]()
+* [Gulp]()
+* [Browser Sync]()
 
 
 ### Zusatz
 
-* Alfred
-* Pages
-* iA Writer
-* CoRD
-* MemoryClean
-* Miro Video Converter
+* [Alfred]()
+* [Pages]()
+* [iA Writer]()
+* [CoRD]()
+* [MemoryClean]()
+* [Miro Video Converter]()
