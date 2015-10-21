@@ -12,14 +12,14 @@ Mac Einrichtung
 * [XtraFinder](https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg)
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
-* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998) (App Store)
+* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998) (App Store Link)
 * [Spotify](https://www.spotify.com/de/download/mac/)
-* [Slack](https://itunes.apple.com/de/app/slack/id803453959) (App Store)
-* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104) (App Store)
+* [Slack](https://itunes.apple.com/de/app/slack/id803453959) (App Store Link)
+* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104) (App Store Link)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
-* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447) (App Store)
-* [The Unarchiver]()
-* [VLC]()
+* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447) (App Store Link)
+* [The Unarchiver](https://itunes.apple.com/de/app/the-unarchiver/id425424353) (App Store Link)
+* [VLC](http://www.vlc.de/vlc_download_mac_os_x.php)
 * [AppCleaner]()
 * [Spectacle ???]()
 
@@ -46,3 +46,12 @@ Mac Einrichtung
 * [CoRD]()
 * [MemoryClean]()
 * [Miro Video Converter]()
+
+
+## OS X Systemeinstellungen
+
+* Rechtschreibkorrektur ausschalten
+* Bei der Uhrzeit das Datum anzeigen
+* Maus
+** Scrollrichtung
+** Rechtsklick aktivieren
