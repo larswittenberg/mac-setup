@@ -4,6 +4,7 @@ Mac Einrichtung
 
 ## Tools & Programme
 
+
 ### Basics
 
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
@@ -64,4 +65,3 @@ Mac Einrichtung
   * Zeigerbewegung
   * "Mit streichen Seiten blättern" > "Mit zwei Fingern horizontal streichen"
   * "Mission Control" > "Mit zwei Fingern doppeltippen"
-* 
