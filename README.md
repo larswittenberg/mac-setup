@@ -1,6 +1,8 @@
 Mac Einrichtung
 ---
 
+Mein OS X Setup.
+
 
 ## Tools & Programme
 
@@ -60,18 +62,22 @@ Mac Einrichtung
 
 * Rechtschreibkorrektur ausschalten
 * Datum und Uhrzeit in der Menüleiste anzeigen
-  * Systemeinstellungen > Datum & Uhrzeit > Uhr > "Datum anzeigen
+  * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
 * Maus Einstellungen
   * Scrollrichtung
   * Rechtsklick aktivieren
   * Zeigerbewegung
-  * "Mit streichen Seiten blättern" > "Mit zwei Fingern horizontal streichen"
-  * "Mission Control" > "Mit zwei Fingern doppeltippen"
-
+  * "Mit streichen Seiten blättern" → "Mit zwei Fingern horizontal streichen"
+  * "Mission Control" → "Mit zwei Fingern doppeltippen"
+* Shortcuts
+  * Schreibtisch einblenden `F6`
+    * Systemeinstellungen → Mission Control
+  * Wechsel zwischen den gleichen Programm-Fenstern `cmd` + `<`
+    * Systemeinstellungen → Tastatur → Kurzbefehle → Tastatur → "Fokus ins nächste Fenster"
 
 ### Versteckte Dateien im Finder anzeigen
-* Terminal öffnen > `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
-* Finder Neu Startten > `Alt + Rechtsklick` auf das Finder Icon > "Neu starten"
+* Terminal öffnen → `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
+* Finder Neu Startten → `Alt + Rechtsklick` auf das Finder Icon → "Neu starten"
 
 
 ### GitHub SSH Keys erstellen
