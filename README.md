@@ -5,7 +5,7 @@ Mac Einrichtung
 ## Tools & Programme
 
 
-### Basics
+### Basic
 
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
@@ -21,6 +21,7 @@ Mac Einrichtung
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
+* [KeePassX](https://www.keepassx.org/downloads/)
 
 
 ### Developer Basics
@@ -45,6 +46,7 @@ Mac Einrichtung
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
 * [iA Writer](https://itunes.apple.com/de/app/ia-writer/id775737590)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
+* [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
 
 
 ### NPM Installationen
