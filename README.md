@@ -67,3 +67,8 @@ Mac Einrichtung
   * Zeigerbewegung
   * "Mit streichen Seiten blättern" > "Mit zwei Fingern horizontal streichen"
   * "Mission Control" > "Mit zwei Fingern doppeltippen"
+
+
+### Versteckte Dateien im Finder anzeigen
+* Terminal öffnen > `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
+* Finder Neu Startten > `Alt + Rechtsklick` auf das Finder Icon > "Neu starten"
