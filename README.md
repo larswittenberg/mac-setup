@@ -12,13 +12,10 @@ Mac Einrichtung
 * [XtraFinder](https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg)
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
-* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998) (App Store Link)
 * [Spotify](https://www.spotify.com/de/download/mac/)
-* [Slack](https://itunes.apple.com/de/app/slack/id803453959) (App Store Link)
-* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104) (App Store Link)
+* [Slack](https://slack.com/ssb/download-osx)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
-* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447) (App Store Link)
-* [The Unarchiver](https://itunes.apple.com/de/app/the-unarchiver/id425424353) (App Store Link)
+* [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
 * [VLC](http://www.vlc.de/vlc_download_mac_os_x.php)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [Spectacle](https://www.spectacleapp.com/)
@@ -35,10 +32,12 @@ Mac Einrichtung
 * [ImageOptim](https://imageoptim.com/)
 * [NodeJS](https://nodejs.org/en/download/)
 
-### NPM Installationen
 
-* Gulp `$ npm install -g gulp`
-* Browser Sync `$ npm install -g browser-sync`
+### Mac App Store Links
+
+* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104) (App Store Link)
+* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998) (App Store Link)
+* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447) (App Store Link)
 
 
 ### Zusatz
@@ -49,6 +48,13 @@ Mac Einrichtung
 * [CoRD]()
 * [MemoryClean]()
 * [Miro Video Converter]()
+
+
+### NPM Installationen
+
+* Gulp `$ npm install -g gulp`
+* Browser Sync `$ npm install -g browser-sync`
+
 
 
 ## OS X Systemeinstellungen
