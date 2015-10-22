@@ -19,6 +19,7 @@ Mac Einrichtung
 * [VLC](http://www.vlc.de/vlc_download_mac_os_x.php)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [Spectacle](https://www.spectacleapp.com/)
+* [Alfred](https://www.alfredapp.com/)
 
 
 ### Developer Basics
@@ -30,24 +31,19 @@ Mac Einrichtung
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
+* [Miro Video Converter](http://www.mirovideoconverter.com/)
+* [CoRD](http://cord.sourceforge.net/)
 * [NodeJS](https://nodejs.org/en/download/)
 
 
 ### Mac App Store Links
 
-* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104) (App Store Link)
-* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998) (App Store Link)
-* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447) (App Store Link)
-
-
-### Zusatz
-
-* [Alfred]()
+* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
+* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
+* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447)
 * [Pages]()
 * [iA Writer]()
-* [CoRD]()
 * [MemoryClean]()
-* [Miro Video Converter]()
 
 
 ### NPM Installationen
