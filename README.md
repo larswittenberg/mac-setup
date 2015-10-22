@@ -54,7 +54,12 @@ Mac Einrichtung
 ## OS X Systemeinstellungen
 
 * Rechtschreibkorrektur ausschalten
-* Bei der Uhrzeit das Datum anzeigen
-* Maus
-** Scrollrichtung
-** Rechtsklick aktivieren
+* Datum und Uhrzeit in der Menüleiste anzeigen
+  * Systemeinstellungen > Datum & Uhrzeit > Uhr > "Datum anzeigen
+* Maus Einstellungen
+  * Scrollrichtung
+  * Rechtsklick aktivieren
+  * Zeigerbewegung
+  * "Mit streichen Seiten blättern" > "Mit zwei Fingern horizontal streichen"
+  * "Mission Control" > "Mit zwei Fingern doppeltippen"
+* 
