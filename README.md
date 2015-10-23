@@ -61,6 +61,7 @@ Mein OS X Setup.
 ## OS X Systemeinstellungen
 
 * Rechtschreibkorrektur ausschalten
+  * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
 * Datum und Uhrzeit in der Menüleiste anzeigen
   * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
 * Maus Einstellungen
