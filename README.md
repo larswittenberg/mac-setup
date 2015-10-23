@@ -83,3 +83,10 @@ Mein OS X Setup.
 
 ### GitHub SSH Keys erstellen
 [Anleitung](https://help.github.com/articles/generating-ssh-keys/)
+
+
+
+## Programm Einstellungen
+
+## FileZilla
+* Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
