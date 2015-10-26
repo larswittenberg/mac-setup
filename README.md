@@ -44,7 +44,7 @@ Mein OS X Setup.
 
 * [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
 * [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
-* [Annotate (früher Glui)](https://itunes.apple.com/us/app/annotate-by-driftt/id918207447)
+* [Skitch](https://itunes.apple.com/de/app/skitch-aufnehmen-markierung/id425955336)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
 * [iA Writer](https://itunes.apple.com/de/app/ia-writer/id775737590)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
