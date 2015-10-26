@@ -24,6 +24,7 @@ Mein OS X Setup.
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
+* [Mou - Markdown editor](http://25.io/mou/)
 
 
 ### Developer Basics
@@ -46,7 +47,6 @@ Mein OS X Setup.
 * [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
 * [Skitch](https://itunes.apple.com/de/app/skitch-aufnehmen-markierung/id425955336)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
-* [iA Writer](https://itunes.apple.com/de/app/ia-writer/id775737590)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
 * [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
 
