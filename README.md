@@ -55,6 +55,8 @@ Mein OS X Setup.
 
 * Gulp `$ npm install -g gulp`
 * Browser Sync `$ npm install -g browser-sync`
+* NPM Check Updates `$ npm install -g npm-check-updates`
+  * https://www.npmjs.com/package/npm-check-updates 
 
 
 
