@@ -87,6 +87,9 @@ Mein OS X Setup.
 [Anleitung](https://help.github.com/articles/generating-ssh-keys/)
 
 
+### OSX Quick Look (Datei Vorschau) erweitern
+[Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+
 
 ## Programm Einstellungen
 
