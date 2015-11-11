@@ -77,6 +77,8 @@ Mein OS X Setup.
     * Systemeinstellungen → Mission Control
   * Wechsel zwischen den gleichen Programm-Fenstern `cmd` + `<`
     * Systemeinstellungen → Tastatur → Kurzbefehle → Tastatur → "Fokus ins nächste Fenster"
+* Wechsel zwischen Buttons per Tabulator-Taste
+  * Systemeinstellungen → Tastatur → Kurzbefehle → "In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung)" → "Alle Steuerungen" aktivieren
 
 ### Versteckte Dateien im Finder anzeigen
 * Terminal öffnen → `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
