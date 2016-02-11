@@ -25,6 +25,7 @@ Mein OS X Setup.
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
 * [Mou - Markdown editor](http://25.io/mou/)
+* [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
 
 
 ### Developer Basics
@@ -45,7 +46,6 @@ Mein OS X Setup.
 
 * [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
 * [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
-* [Skitch](https://itunes.apple.com/de/app/skitch-aufnehmen-markierung/id425955336)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
 * [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
@@ -76,8 +76,6 @@ Mein OS X Setup.
   * "Mit streichen Seiten blättern" → "Mit zwei Fingern horizontal streichen"
   * "Mission Control" → "Mit zwei Fingern doppeltippen"
 * Shortcuts
-  * Schreibtisch einblenden `F6`
-    * Systemeinstellungen → Mission Control
   * Wechsel zwischen den gleichen Programm-Fenstern `cmd` + `<`
     * Systemeinstellungen → Tastatur → Kurzbefehle → Tastatur → "Fokus ins nächste Fenster"
 * Wechsel zwischen Buttons per Tabulator-Taste
@@ -100,3 +98,6 @@ Mein OS X Setup.
 
 ## FileZilla
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
+
+## Alfred
+* Alfred Hotkey `cmd` + `Space`
