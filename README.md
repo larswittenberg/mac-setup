@@ -80,7 +80,7 @@ Mein OS X Setup.
     * Systemeinstellungen → Tastatur → Kurzbefehle → Tastatur → "Fokus ins nächste Fenster"
 * Wechsel zwischen Buttons per Tabulator-Taste
   * Systemeinstellungen → Tastatur → Kurzbefehle → "In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung)" → "Alle Steuerungen" aktivieren
-* Fenster beim öffnen wiederherstellen
+* Dokumente und Fenster beim Öffnen eines Programms wiederherstellen
   * Systemeinstellungen → Allgemein → "Fenster beim Beenden einen Programms schließen" deaktivieren
 
 ### Versteckte Dateien im Finder anzeigen
