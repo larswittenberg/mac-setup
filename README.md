@@ -51,6 +51,20 @@ Mein OS X Setup.
 * [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
 
 
+### Chrome Erweiterungen
+
+* Authy
+* Block Yourself from Analytics
+* Evernote Web Clipper
+* Google Übersetzer
+* LastPass: Free Password Manager
+* Pesticide for Chrome
+* Pushbullet
+* Save to Pocket
+* Stylish
+* Validity
+
+
 ### NPM Installationen
 
 * Gulp
