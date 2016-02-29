@@ -27,6 +27,7 @@ Mein OS X Setup.
 * [KeePassX](https://www.keepassx.org/downloads/)
 * [Mou - Markdown editor](http://25.io/mou/)
 * [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
+* [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
 
 
 ### Developer Basics
