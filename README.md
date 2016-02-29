@@ -121,6 +121,10 @@ Mein OS X Setup.
 ### Alfred
 * Alfred Hotkey `cmd` + `Space`
 
-### Monosnap - Screenshot Tool
+### Monosnap
 * Capture area `cmd` + `Shift` + `5`
 * Open Editor `cmd` + `Shift` + `0`
+
+### Spectacle
+* Left Half `alt` + `cmd` + `←`
+* Right Half `alt` + `cmd` + `→`
