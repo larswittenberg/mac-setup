@@ -115,8 +115,12 @@ Mein OS X Setup.
 
 ## Programm Einstellungen
 
-## FileZilla
+### FileZilla
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
 
-## Alfred
+### Alfred
 * Alfred Hotkey `cmd` + `Space`
+
+### Monosnap - Screenshot Tool
+* Capture area `cmd` + `Shift` + `5`
+* Open Editor `cmd` + `Shift` + `0`
