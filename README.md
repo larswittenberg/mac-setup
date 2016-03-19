@@ -28,6 +28,7 @@ Mein OS X Setup.
 * [Mou - Markdown editor](http://25.io/mou/)
 * [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
+* [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 
 
 ### Developer Basics
