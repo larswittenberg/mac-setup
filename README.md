@@ -29,7 +29,7 @@ Mein OS X Setup.
 * [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
-* [Rename - Hassle-free file renaming](https://www.macupdate.com/app/mac/33659/rename)
+* [Rename - Hassle-free file renaming](http://de.download.cnet.com/Rename/3000-2248_4-75157367.html)
 
 
 ### Developer Basics
