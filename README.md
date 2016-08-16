@@ -79,6 +79,7 @@ Mein OS X Setup.
 * NPM Check Updates
   * https://www.npmjs.com/package/npm-check-updates 
   * `$ npm install -g npm-check-updates`
+  * Benutzung: `$ ncu`
 
 
 
