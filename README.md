@@ -61,13 +61,13 @@ Mein OS X Setup.
 * Authy
 * Block Yourself from Analytics
 * Evernote Web Clipper
-* Google Übersetzer
+* [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * LastPass: Free Password Manager
-* Pesticide for Chrome
-* Pushbullet
-* Save to Pocket
-* Stylish
-* Validity
+* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
+* ~~Pushbullet~~
+* ~~Save to Pocket~~
+* ~~Stylish~~
+* [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
 
 
 ### NPM Installationen
