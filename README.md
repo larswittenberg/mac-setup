@@ -61,6 +61,7 @@ Mein OS X Setup.
 
 * AdBlock
 * Authy
+* [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 * ~~Block Yourself from Analytics~~
 * [Deaktivierungs-Add-on von Google Analytics](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
 * Evernote Web Clipper
