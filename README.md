@@ -1,4 +1,4 @@
-Mac Einrichtung
+# Mac Einrichtung
 ---
 
 Mein OS X Setup.
@@ -12,7 +12,7 @@ Mein OS X Setup.
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
-* [XtraFinder](https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg)
+* ~~[XtraFinder](https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg)~~
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
 * [Spotify](https://www.spotify.com/de/download/mac/)
@@ -25,7 +25,8 @@ Mein OS X Setup.
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
-* [Mou - Markdown editor](http://25.io/mou/)
+* ~~[Mou - Markdown editor](http://25.io/mou/)~~
+* [MacDown - Markdown Editor](http://macdown.uranusjr.com/)
 * [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
@@ -58,10 +59,13 @@ Mein OS X Setup.
 
 ### Chrome Erweiterungen
 
+* AdBlock
 * Authy
-* Block Yourself from Analytics
+* ~~Block Yourself from Analytics~~
+* [Deaktivierungs-Add-on von Google Analytics](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
 * Evernote Web Clipper
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+* In Google Drive speichern
 * LastPass: Free Password Manager
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 * ~~Pushbullet~~
