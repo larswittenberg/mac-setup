@@ -132,6 +132,7 @@ Mein OS X Setup.
 ### Monosnap
 * Capture area `cmd` + `Shift` + `5`
 * Open Editor `cmd` + `Shift` + `0`
+* FTP Upload auf eigenen Server
 
 ### Spectacle
 * Left Half `alt` + `cmd` + `←`
