@@ -60,20 +60,21 @@ Mein OS X Setup.
 
 ### Chrome Erweiterungen
 
-* AdBlock
-* Authy
+
 * [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
-* ~~Block Yourself from Analytics~~
 * [Deaktivierungs-Add-on von Google Analytics](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
-* Evernote Web Clipper
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
+* [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+* Evernote Web Clipper
 * In Google Drive speichern
 * LastPass: Free Password Manager
-* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
+* AdBlock
+* Authy
 * ~~Pushbullet~~
-* ~~Save to Pocket~~
 * ~~Stylish~~
-* [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+
+* ~~Block Yourself from Analytics~~
 
 
 ### NPM Installationen
