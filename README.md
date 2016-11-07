@@ -12,7 +12,6 @@ Mein OS X Setup.
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
-* ~~[XtraFinder](https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg)~~
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
 * [Spotify](https://www.spotify.com/de/download/mac/)
@@ -25,12 +24,12 @@ Mein OS X Setup.
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
-* ~~[Mou - Markdown editor](http://25.io/mou/)~~
 * [MacDown - Markdown Editor](http://macdown.uranusjr.com/)
 * [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [Rename - Hassle-free file renaming](http://de.download.cnet.com/Rename/3000-2248_4-75157367.html)
+* [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 
 
 ### Developer Basics
@@ -45,7 +44,6 @@ Mein OS X Setup.
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
-* [CoRD](http://cord.sourceforge.net/)
 * [NodeJS](https://nodejs.org/en/download/)
 
 
