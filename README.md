@@ -30,6 +30,7 @@ Mein OS X Setup.
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [Rename - Hassle-free file renaming](http://de.download.cnet.com/Rename/3000-2248_4-75157367.html)
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
+* [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 
 
 ### Developer Basics
