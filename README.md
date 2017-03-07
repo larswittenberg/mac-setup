@@ -72,7 +72,7 @@ Mein OS X Setup.
 * Evernote Web Clipper
 * AdBlock
 * Authy
-* ~~In Google Drive speichern
+* ~~In Google Drive speichern~~
 * ~~Pushbullet~~
 * ~~Stylish~~
 * ~~Block Yourself from Analytics~~
