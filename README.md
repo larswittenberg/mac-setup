@@ -113,7 +113,6 @@ Mein OS X Setup.
 
 ### Versteckte Dateien im Finder anzeigen
 * Terminal öffnen → `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
-* Finder Neu Startten → `Alt + Rechtsklick` auf das Finder Icon → "Neu starten"
 
 
 ### GitHub SSH Keys erstellen
