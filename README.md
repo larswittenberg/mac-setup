@@ -67,14 +67,14 @@ Mein OS X Setup.
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+* [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * Evernote Web Clipper
-* In Google Drive speichern
-* LastPass: Free Password Manager
 * AdBlock
 * Authy
+* ~~In Google Drive speichern
 * ~~Pushbullet~~
 * ~~Stylish~~
-
 * ~~Block Yourself from Analytics~~
 
 
