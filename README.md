@@ -30,6 +30,7 @@ Mein OS X Setup.
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [Rename - Hassle-free file renaming](https://www.macupdate.com/app/mac/33659/rename)
+* [NameChanger](https://mrrsoftware.com/namechanger/)
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 
