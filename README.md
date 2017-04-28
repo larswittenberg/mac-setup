@@ -113,7 +113,7 @@ Mein OS X Setup.
 * Dokumente und Fenster beim Öffnen eines Programms wiederherstellen
   * Systemeinstellungen → Allgemein → "Fenster beim Beenden einen Programms schließen" deaktivieren
 * User Interface Transparenz deaktivieren
-	* Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
+  * Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 
 
 ### Versteckte Dateien im Finder anzeigen
