@@ -112,6 +112,9 @@ Mein OS X Setup.
   * Systemeinstellungen → Tastatur → Kurzbefehle → "In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung)" → "Alle Steuerungen" aktivieren
 * Dokumente und Fenster beim Öffnen eines Programms wiederherstellen
   * Systemeinstellungen → Allgemein → "Fenster beim Beenden einen Programms schließen" deaktivieren
+* User Interface Transparenz deaktivieren
+	* Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
+
 
 ### Versteckte Dateien im Finder anzeigen
 * Terminal öffnen → `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
