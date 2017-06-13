@@ -43,7 +43,6 @@ Mein OS X Setup.
 * [GitHub Desktop App](https://desktop.github.com/)
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
-* [Cyberduck](https://cyberduck.io/?l=de)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
