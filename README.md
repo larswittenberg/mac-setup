@@ -41,6 +41,7 @@ Mein OS X Setup.
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Git Tower](http://www.git-tower.com/download)
 * [GitHub Desktop App](https://desktop.github.com/)
+* [GitKraken Git GUI](https://www.gitkraken.com/)
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
