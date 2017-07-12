@@ -115,6 +115,9 @@ Mein OS X Setup.
   * Systemeinstellungen → Allgemein → "Fenster beim Beenden einen Programms schließen" deaktivieren
 * User Interface Transparenz deaktivieren
   * Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
+* Weitere Systemeinstellungen festlegen
+	* Energie sparen
+	* Bildschirmschoner
 
 
 ### Versteckte Dateien im Finder anzeigen
