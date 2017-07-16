@@ -59,7 +59,6 @@ Mein OS X Setup.
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
 * [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
-* [Leaf - RSS News Reader](https://itunes.apple.com/de/app/leaf-rss-news-reader/id576338668?mt=12)
 
 
 ### Chrome Erweiterungen
