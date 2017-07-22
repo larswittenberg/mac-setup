@@ -136,6 +136,7 @@ Mein OS X Setup.
 
 ### FileZilla
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
+* Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → "/Applications/Atom.app"
 
 ### Alfred
 * Alfred Hotkey `cmd` + `Space`
