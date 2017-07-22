@@ -54,6 +54,7 @@ Mein OS X Setup.
 ### Mac App Store Links
 
 * [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
+* [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
 * [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
