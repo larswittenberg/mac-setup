@@ -4,7 +4,7 @@
 Mein OS X Setup.
 
 
-## Tools & Programme
+
 
 
 ### Basic
@@ -15,6 +15,7 @@ Mein OS X Setup.
   * `brew tap caskroom/cask`
 
 
+## Tools & Programme
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
@@ -40,6 +41,7 @@ Mein OS X Setup.
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Suunto Moveslink App](http://www.movescount.com/de/connect/moveslink?os=mac)
+* [Authy MacApp](https://authy.com/download/)
 
 
 ### Developer Basics
