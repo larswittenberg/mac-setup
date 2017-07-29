@@ -9,6 +9,12 @@ Mein OS X Setup.
 
 ### Basic
 
+* Homebrew installieren
+  * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+* Homebrew Cask installieren
+  * `brew tap caskroom/cask`
+
+
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
@@ -89,7 +95,7 @@ Mein OS X Setup.
 * Browser Sync
   * `$ npm install -g browser-sync`
 * NPM Check Updates
-  * https://www.npmjs.com/package/npm-check-updates 
+  * https://www.npmjs.com/package/npm-check-updates
   * `$ npm install -g npm-check-updates`
   * Benutzung: `$ ncu`
 
@@ -97,6 +103,14 @@ Mein OS X Setup.
 
 ## OS X Systemeinstellungen
 
+* Gerätenamen ändern
+  * Systemeinstellungen → Freigaben
+  * Danach System neustarten
+* Dock
+  * Größe: relativ klein
+  * Vergrößerung aktivieren
+  * Position: rechts
+  * Dock automatisch ein- und ausblenden
 * Rechtschreibkorrektur ausschalten
   * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
 * Datum und Uhrzeit in der Menüleiste anzeigen
@@ -121,8 +135,15 @@ Mein OS X Setup.
 	* Bildschirmschoner
 
 
-### Versteckte Dateien im Finder anzeigen
-* Terminal öffnen → `defaults write com.apple.Finder AppleShowAllFiles YES` und Bestätigen
+
+### Finder Einstellungen
+* Neue Finder-Fenster zeigen: Schreibtisch
+
+Befehle im Terminal ausführen
+* Show hidden files → defaults write com.apple.finder AppleShowAllFiles YES
+* Show path bar → defaults write com.apple.finder ShowPathbar -bool true
+* Show status bar → defaults write com.apple.finder ShowStatusBar -bool true
+* Show Library folder → chflags nohidden ~/Library
 
 
 ### GitHub SSH Keys erstellen
