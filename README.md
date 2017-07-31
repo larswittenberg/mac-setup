@@ -167,6 +167,7 @@ Befehle im Terminal ausführen
 * Alfred Hotkey `cmd` + `Space`
 
 ### Monosnap
+* Filename template: `%Y%m%d_%W`
 * Capture area `cmd` + `Shift` + `5`
 * Open Editor `cmd` + `Shift` + `0`
 * FTP Upload auf eigenen Server
