@@ -40,7 +40,7 @@ Mein OS X Setup.
 * [NameChanger](https://mrrsoftware.com/namechanger/)
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
-* [Suunto Moveslink App](http://www.movescount.com/de/connect/moveslink?os=mac)
+* [Suunto Moveslink App](http://www.movescount.com/de/connect/download?type=moveslink&os=mac)
 * [Authy MacApp](https://authy.com/download/)
 * [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
 
