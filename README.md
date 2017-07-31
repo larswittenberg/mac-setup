@@ -157,6 +157,10 @@ Befehle im Terminal ausführen
 [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 
+### Websites Ordner erstellen
+Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
+
+
 ## Programm Einstellungen
 
 ### FileZilla
