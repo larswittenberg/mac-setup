@@ -1,13 +1,8 @@
-# Mac Einrichtung
+# Mein OS X Setup
 ---
 
-Mein OS X Setup.
 
-
-
-
-
-### Basic
+## Basics
 
 * Homebrew installieren
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -17,38 +12,45 @@ Mein OS X Setup.
 
 ## Tools & Programme
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
-* [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
 * [Spotify](https://www.spotify.com/de/download/mac/)
 * [Skype](http://www.skype.com/de/download-skype/skype-for-mac/)
-* [Slack](https://slack.com/ssb/download-osx)
-* [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
 * [VLC](http://www.vlc.de/vlc_download_mac_os_x.php)
-* [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
-* [MacDown - Markdown Editor](http://macdown.uranusjr.com/)
-* [Mou - Markdown Editor](http://25.io/mou/)
 * [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
+* [Authy MacApp](https://authy.com/download/)
+* ~~[MacDown - Markdown Editor](http://macdown.uranusjr.com/)~~ → Atom Editor
+* ~~[Mou - Markdown Editor](http://25.io/mou/)~~ → Atom Editor
+
+
+### Treiber
+* [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
+* [Suunto Moveslink App](http://www.movescount.com/de/connect/download?type=moveslink&os=mac)
+
+
+### Nice to have
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
+* [Slack](https://slack.com/ssb/download-osx)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
+* [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
+* [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [Rename - Hassle-free file renaming](https://www.macupdate.com/app/mac/33659/rename)
 * [NameChanger](https://mrrsoftware.com/namechanger/)
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
+* [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
-* [Suunto Moveslink App](http://www.movescount.com/de/connect/download?type=moveslink&os=mac)
-* [Authy MacApp](https://authy.com/download/)
-* [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
 
 
 ### Developer Basics
-
-* [Sublime Text 3](http://www.sublimetext.com/3)
+* [Atom Editor](https://atom.io/)
+* ~~[Sublime Text 3](http://www.sublimetext.com/3)~~ → Atom Editor
 * [MAMP](https://www.mamp.info/de/downloads/)
+* [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Git Tower](http://www.git-tower.com/download)
 * [GitHub Desktop App](https://desktop.github.com/)
 * [GitKraken Git GUI](https://www.gitkraken.com/)
@@ -56,7 +58,6 @@ Mein OS X Setup.
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
-* [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [NodeJS](https://nodejs.org/en/download/)
 
 
@@ -84,7 +85,7 @@ Mein OS X Setup.
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * Evernote Web Clipper
 * AdBlock
-* Authy
+* ~~Authy~~ → mac App (siehe oben)
 * ~~In Google Drive speichern~~
 * ~~Pushbullet~~
 * ~~Stylish~~
@@ -143,39 +144,39 @@ Mein OS X Setup.
 * Neue Finder-Fenster zeigen: Schreibtisch
 
 Befehle im Terminal ausführen
-* Show hidden files → defaults write com.apple.finder AppleShowAllFiles YES
-* Show path bar → defaults write com.apple.finder ShowPathbar -bool true
-* Show status bar → defaults write com.apple.finder ShowStatusBar -bool true
-* Show Library folder → chflags nohidden ~/Library
+* Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
+* Pfad-Leiste anzeigen → `defaults write com.apple.finder ShowPathbar -bool true`
+* Status-Leiste anzeigen → `defaults write com.apple.finder ShowStatusBar -bool true`
+* Library Ordner anzeigen → `chflags nohidden ~/Library`
 
 
-### GitHub SSH Keys erstellen
-[Anleitung](https://help.github.com/articles/generating-ssh-keys/)
+#### GitHub SSH Keys erstellen
+* [Anleitung](https://help.github.com/articles/generating-ssh-keys/)
 
 
-### OSX Quick Look (Datei Vorschau) erweitern
-[Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+#### MacOS Quick Look (Datei Vorschau) erweitern
+* [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 
-### Websites Ordner erstellen
-Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
+#### Websites Ordner erstellen
+* Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
 
 
 ## Programm Einstellungen
 
-### FileZilla
+#### FileZilla
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
 * Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → "/Applications/Atom.app"
 
-### Alfred
+#### Alfred
 * Alfred Hotkey `cmd` + `Space`
 
-### Monosnap
+#### Monosnap
 * Filename template: `%Y%m%d_%W`
 * Capture area `cmd` + `Shift` + `5`
 * Open Editor `cmd` + `Shift` + `0`
 * FTP Upload auf eigenen Server
 
-### Spectacle
+#### Spectacle
 * Left Half `alt` + `cmd` + `←`
 * Right Half `alt` + `cmd` + `→`
