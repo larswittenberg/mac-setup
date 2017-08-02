@@ -119,6 +119,7 @@
   * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
 * Datum und Uhrzeit in der Menüleiste anzeigen
   * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
+* Bildschirmschoner → Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/)
 * Maus Einstellungen
   * Scrollrichtung
   * Rechtsklick aktivieren
@@ -136,7 +137,6 @@
   * Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 * Weitere Systemeinstellungen festlegen
 	* Energie sparen
-	* Bildschirmschoner
 
 
 
