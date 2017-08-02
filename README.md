@@ -142,6 +142,7 @@
 
 ### Finder Einstellungen
 * Neue Finder-Fenster zeigen: Schreibtisch
+* Sortierung der Dateien: Rechtsklick im Finder → Darstellungsoptionen einblenden → Ausrichten nach: Name & Sortiert nach: Art
 
 Befehle im Terminal ausführen
 * Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
