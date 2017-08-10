@@ -52,8 +52,9 @@
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Git Tower](http://www.git-tower.com/download)
-* [GitHub Desktop App](https://desktop.github.com/)
 * [GitKraken Git GUI](https://www.gitkraken.com/)
+* [Source Tree](https://www.sourcetreeapp.com/)
+* ~~[GitHub Desktop App](https://desktop.github.com/)~~
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
@@ -137,7 +138,7 @@
   * Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 * Bildschirmlupe / Zoomen
   * durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet
-  * Systemeinstellungen → Bedienungshilfen → Zoomen → 
+  * Systemeinstellungen → Bedienungshilfen → Zoomen →
     * "Tastaturkurzbefehle zum Zoomen verwenden" aktivieren
     * Zoomstil: "Bild-in-Bild"
     * Zoomstil Optionen → Temporäres Zoomen aktivieren
