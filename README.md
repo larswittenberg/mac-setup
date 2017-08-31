@@ -175,7 +175,7 @@ Befehle im Terminal ausführen
 
 #### FileZilla
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
-* Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → "/Applications/Atom.app"
+* Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Atom.app"```
 
 #### Alfred
 * Alfred Hotkey `cmd` + `Space`
