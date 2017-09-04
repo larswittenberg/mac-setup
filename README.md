@@ -189,3 +189,9 @@ Befehle im Terminal ausführen
 #### Spectacle
 * Left Half `alt` + `cmd` + `←`
 * Right Half `alt` + `cmd` + `→`
+
+
+#### TextEdit
+* Einstellungen > Neues Dokument
+  * Format: Reiner Text
+  * Schrift: Hack Regular, 16
