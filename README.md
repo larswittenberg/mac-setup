@@ -22,7 +22,6 @@
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
-* [Monosnap - Screenshot Tool](http://monosnap.com/welcome)
 * [Authy MacApp](https://authy.com/download/)
 * ~~[MacDown - Markdown Editor](http://macdown.uranusjr.com/)~~ → Atom Editor
 * ~~[Mou - Markdown Editor](http://25.io/mou/)~~ → Atom Editor
@@ -66,6 +65,8 @@
 
 * [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
 * [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
+* [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
+* [Trello](https://itunes.apple.com/de/app/trello/id1278508951?mt=12)
 * [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
