@@ -113,9 +113,10 @@
   * Systemeinstellungen → Freigaben
   * Danach System neustarten
 * Dock
-  * Größe: relativ klein
+  * Größe: mittel
   * Vergrößerung aktivieren
-  * Position: rechts
+  * Position: unten
+  * Fenster hinter Programmsymbol im Dock ablegen
   * Dock automatisch ein- und ausblenden
 * Rechtschreibkorrektur ausschalten
   * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
