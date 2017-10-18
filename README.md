@@ -43,6 +43,7 @@
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
+* [Android File Transfer](https://www.android.com/filetransfer/)
 
 
 ### Developer Basics
