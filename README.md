@@ -174,6 +174,10 @@ Befehle im Terminal ausführen
 * Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
 
 
+#### SMB Verbindung - Signierung deaktivieren
+* [Turn off packet signing for SMB 2 and SMB 3 connections](https://support.apple.com/en-us/HT205926)
+
+
 ## Programm Einstellungen
 
 #### FileZilla
