@@ -70,7 +70,6 @@
 * [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
 * [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
 * [Trello](https://itunes.apple.com/de/app/trello/id1278508951?mt=12)
-* [Twitter](https://itunes.apple.com/us/app/twitter/id409789998)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
 * [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
