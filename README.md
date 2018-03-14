@@ -88,11 +88,9 @@
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * Evernote Web Clipper
 * AdBlock
-* ~~Authy~~ → mac App (siehe oben)
-* ~~In Google Drive speichern~~
+* Cisco WebEx Extension
+* Refined Twitter
 * ~~Pushbullet~~
-* ~~Stylish~~
-* ~~Block Yourself from Analytics~~
 
 
 ### NPM Installationen
