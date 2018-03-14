@@ -52,14 +52,16 @@
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Git Tower](http://www.git-tower.com/download)
-* [GitKraken Git GUI](https://www.gitkraken.com/)
-* [Source Tree](https://www.sourcetreeapp.com/)
+* [Fork - git client](https://git-fork.com/)
+* ~~[GitKraken Git GUI](https://www.gitkraken.com/)~~
+* ~~[Source Tree](https://www.sourcetreeapp.com/)~~
 * ~~[GitHub Desktop App](https://desktop.github.com/)~~
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
 * [NodeJS](https://nodejs.org/en/download/)
+* [Yarn](https://yarnpkg.com/lang/en/)
 
 
 ### Mac App Store Links
