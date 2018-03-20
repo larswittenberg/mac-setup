@@ -44,6 +44,7 @@
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
+* [App Cleaner (Uninstaller)](https://freemacsoft.net/appcleaner/)
 
 
 ### Developer Basics
