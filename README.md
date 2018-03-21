@@ -49,6 +49,7 @@
 
 ### Developer Basics
 * [Atom Editor](https://atom.io/)
+* [iTerm2 - Terminal Replacement](https://www.iterm2.com/)
 * ~~[Sublime Text 3](http://www.sublimetext.com/3)~~ → Atom Editor
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
