@@ -64,8 +64,7 @@
 * [ImageOptim](https://imageoptim.com/)
 * [NodeJS](https://nodejs.org/en/download/)
 * [Yarn](https://yarnpkg.com/lang/en/)
-* [Hyper Terminal](https://hyper.is/)
-  * [Hyper Terminal Cobalt2 Theme](https://github.com/wesbos/hyperterm-cobalt2-theme)
+* ~~[Hyper Terminal](https://hyper.is/)~~
 
 
 ### Mac App Store Links
