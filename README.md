@@ -204,8 +204,12 @@ Befehle im Terminal ausführen
 * Left Half `alt` + `cmd` + `←`
 * Right Half `alt` + `cmd` + `→`
 
-
 #### TextEdit
 * Einstellungen > Neues Dokument
   * Format: Reiner Text
   * Schrift: Hack Regular, 16
+  
+#### iTerm2 + ZSH
+* Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
+  * Powerline Schritt übersprungen
+  * Patched Hack Font Download siehe oben
