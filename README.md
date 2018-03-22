@@ -213,3 +213,4 @@ Befehle im Terminal ausführen
 * Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
   * Powerline Schritt übersprungen
   * Patched Hack Font Download siehe oben
+* [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
