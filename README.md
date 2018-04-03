@@ -65,8 +65,8 @@
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
+* [Yarn](https://yarnpkg.com/lang/en/) `brew install yarn`
 * [NodeJS](https://nodejs.org/en/download/)
-* [Yarn](https://yarnpkg.com/lang/en/)
 * ~~[Hyper Terminal](https://hyper.is/)~~
 
 
