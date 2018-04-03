@@ -25,8 +25,6 @@
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
 * [Authy MacApp](https://authy.com/download/)
-* ~~[MacDown - Markdown Editor](http://macdown.uranusjr.com/)~~ → Atom Editor
-* ~~[Mou - Markdown Editor](http://25.io/mou/)~~ → Atom Editor
 
 
 ### Treiber
@@ -54,21 +52,17 @@
 * [iTerm2 - Terminal Replacement](https://www.iterm2.com/)
 * [Oh-My-Zsh](http://ohmyz.sh/)
   * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-* ~~[Sublime Text 3](http://www.sublimetext.com/3)~~ → Atom Editor
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Git Tower](http://www.git-tower.com/download)
 * [Fork - git client](https://git-fork.com/)
 * ~~[GitKraken Git GUI](https://www.gitkraken.com/)~~
-* ~~[Source Tree](https://www.sourcetreeapp.com/)~~
-* ~~[GitHub Desktop App](https://desktop.github.com/)~~
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
 * [Yarn](https://yarnpkg.com/lang/en/) `brew install yarn`
 * [NodeJS](https://nodejs.org/en/download/)
-* ~~[Hyper Terminal](https://hyper.is/)~~
 
 
 ### Mac App Store Links
@@ -98,7 +92,6 @@
 * AdBlock
 * Cisco WebEx Extension
 * Refined Twitter
-* ~~Pushbullet~~
 
 
 ### NPM Installationen
