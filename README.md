@@ -129,6 +129,8 @@
   * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
 * Datum und Uhrzeit in der Menüleiste anzeigen
   * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
+* Bluetooth → "Bluetooth in der Menüleiste anzeige" aktivieren
+* Ton → "Lautstärke in der Menüleiste anzeige" aktivieren
 * Bildschirmschoner → Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/)
 * Maus Einstellungen
   * "Scrollrichtung: Natürlich" deaktivieren
