@@ -211,6 +211,7 @@ Befehle im Terminal ausführen
 #### Spectacle
 * Left Half `alt` + `cmd` + `←`
 * Right Half `alt` + `cmd` + `→`
+* "Launch Spectacle at Login" aktivieren
 
 #### TextEdit
 * Einstellungen > Neues Dokument
