@@ -9,7 +9,7 @@
 * Homebrew Cask installieren
   * `brew tap caskroom/cask`
 * Apps mit Homebrew installieren
-  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom iterm2 imageoptim filezilla sequel-pro virtualbox mamp canary`
+  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim filezilla sequel-pro mamp canary`
 
 
 ## Tools & Programme
