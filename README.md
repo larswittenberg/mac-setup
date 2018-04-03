@@ -156,7 +156,11 @@
     * Zoomstil Optionen → Temporäres Zoomen aktivieren
     * Zoomstil Optionen → Fensterposition: Mauszeiger folgen
 * Weitere Systemeinstellungen festlegen
-	* Energie sparen
+  * Energie sparen
+* Firewall aktivieren
+  * Systemeinstellungen → Sicherheit → Firewall
+* Ortungsdienste deaktivieren
+  * Systemeinstellungen → Sicherheit → Privatsphäre → "Ortungsdienste aktivieren" deaktivieren
 
 
 
