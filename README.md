@@ -222,6 +222,10 @@ Befehle im Terminal ausführen
   * Format: Reiner Text
   * Schrift: Hack Regular, 16
 
+#### Chrome
+* Vor Beenden waren aktivieren → Menü Chrome → "Vor Beenden waren" aktivieren
+* Pfad für Downloads ändern auf "Desktop"
+
 #### Evernote
 * Ansichtsoptionen → "Ansicht seitliche Leiste"
 * Einstellungen → Allgemein → "Notizanzahl in Seitenleiste anzeigen" aktivieren
