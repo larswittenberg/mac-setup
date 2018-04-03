@@ -206,9 +206,13 @@ Befehle im Terminal ausführen
 * Appearance → Options → "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
 
 #### Monosnap
-* Filename template: `%Y%m%d_%W`
-* Capture area `cmd` + `Shift` + `5`
-* Open Editor `cmd` + `Shift` + `0`
+* General → "Launch at login" aktivieren
+* General → After upload: Copy direct image link
+* General → After upload: "Open in browser" deaktivieren
+* General → After upload: "Short links" aktivieren
+* Advanced → Filename template: `%Y%m%d_%W`
+* Hotkeys → Capture area `cmd` + `Shift` + `5`
+* Hotkeys → Open Editor `cmd` + `Shift` + `0`
 * FTP Upload auf eigenen Server
 
 #### Spectacle
