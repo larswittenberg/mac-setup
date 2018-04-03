@@ -218,10 +218,16 @@ Befehle im Terminal ausführen
 * "Launch Spectacle at Login" aktivieren
 
 #### TextEdit
-* Einstellungen > Neues Dokument
+* Einstellungen → Neues Dokument
   * Format: Reiner Text
   * Schrift: Hack Regular, 16
-  
+
+#### Evernote
+* Ansichtsoptionen → "Ansicht seitliche Leiste"
+* Einstellungen → Allgemein → "Notizanzahl in Seitenleiste anzeigen" aktivieren
+* Einstellungen → Allgemein → "Evernote-Helfer startten, wenn ich den Computer starte" aktivieren
+* Einstellungen → Formatierung → Notiztext → Helvetica Neue 13
+
 #### iTerm2 + ZSH
 * Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
   * Powerline Schritt übersprungen
