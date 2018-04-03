@@ -97,12 +97,14 @@
 ### NPM Installationen
 
 * Gulp
-  * `$ npm install -g gulp`
+  * `$ yarn global add gulp`
 * Browser Sync
-  * `$ npm install -g browser-sync`
+  * `$ yarn global add browser-sync`
+* MJML
+  * `$ yarn global add mjml`
 * NPM Check Updates
   * https://www.npmjs.com/package/npm-check-updates
-  * `$ npm install -g npm-check-updates`
+  * `$ yarn global add npm-check-updates`
   * Benutzung: `$ ncu`
 
 
