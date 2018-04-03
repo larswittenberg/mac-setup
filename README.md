@@ -8,6 +8,8 @@
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * Homebrew Cask installieren
   * `brew tap caskroom/cask`
+* Apps mit Homebrew installieren
+  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom iterm2 imageoptim filezilla sequel-pro virtualbox mamp canary`
 
 
 ## Tools & Programme
