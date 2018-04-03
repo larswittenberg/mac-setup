@@ -200,7 +200,9 @@ Befehle im Terminal ausführen
 * Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Atom.app"```
 
 #### Alfred
+* Spotlight Shortcut deaktivieren: Systemeinstellungen → Tastatur → Kurzbefehle → Spotlight → beide Punkte deaktivieren
 * Alfred Hotkey `cmd` + `Space`
+* Appearance → Options → "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
 
 #### Monosnap
 * Filename template: `%Y%m%d_%W`
