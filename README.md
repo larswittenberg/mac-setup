@@ -53,7 +53,7 @@
 * [Atom Editor](https://atom.io/)
 * [iTerm2 - Terminal Replacement](https://www.iterm2.com/)
 * [Oh-My-Zsh](http://ohmyz.sh/)
-  * Install via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+  * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 * ~~[Sublime Text 3](http://www.sublimetext.com/3)~~ → Atom Editor
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
@@ -182,6 +182,7 @@ Befehle im Terminal ausführen
 
 #### MacOS Quick Look (Datei Vorschau) erweitern
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+  * Installation via Homebrew `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo`
 
 
 #### Websites Ordner erstellen
