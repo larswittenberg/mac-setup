@@ -132,10 +132,10 @@
   * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
 * Bildschirmschoner → Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/)
 * Maus Einstellungen
-  * Scrollrichtung
+  * "Scrollrichtung: Natürlich" deaktivieren
   * Rechtsklick aktivieren
-  * Zeigerbewegung
-  * "Mit streichen Seiten blättern" → "Mit zwei Fingern horizontal streichen"
+  * Zeigerbewegung → Geschwindigkeit auf ~ 75% stellen
+  * "Mit streichen Seiten blättern" → "Mit zwei Fingern horizontal streichen"
   * "Mission Control" → "Mit zwei Fingern doppeltippen"
 * Shortcuts
   * Wechsel zwischen den gleichen Programm-Fenstern `cmd` + `<`
