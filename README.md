@@ -116,6 +116,8 @@
 
 ## OS X Systemeinstellungen
 
+* Scrollbars nur beim scrollen anzeigen
+  * Allgemein → "Rollbalken einblenden - Beim scorllen" auswählen
 * Gerätenamen ändern
   * Systemeinstellungen → Freigaben
   * Danach System neustarten
