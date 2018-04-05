@@ -196,6 +196,7 @@ Befehle im Terminal ausführen
 ## Programm Einstellungen
 
 #### FileZilla
+* Servermanager Einträge importieren
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
 * Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Atom.app"```
 
