@@ -228,6 +228,11 @@ Befehle im Terminal ausführen
 #### Chrome
 * Vor Beenden waren aktivieren → Menü Chrome → "Vor Beenden waren" aktivieren
 * Pfad für Downloads ändern auf "Desktop"
+* Developer-Tools → Settings → Devices → folgende Custom Devies anlegen
+  * Laptop FullHD mit 1920x1080
+  * Laptop XL mit 1520x800
+  * Laptop LG mit 1280x800
+  * Laptop MD mit 1024x768
 
 #### Evernote
 * Ansichtsoptionen → "Ansicht seitliche Leiste"
