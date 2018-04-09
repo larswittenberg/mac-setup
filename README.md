@@ -204,6 +204,8 @@ Befehle im Terminal ausführen
 * Spotlight Shortcut deaktivieren: Systemeinstellungen → Tastatur → Kurzbefehle → Spotlight → beide Punkte deaktivieren
 * Alfred Hotkey `cmd` + `Space`
 * Appearance → Options → "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
+* Eingaben für 5 Minuten behalten
+  Advanced → History → "Show latest query if within 5 minutes" aktivieren
 
 #### Monosnap
 * General → "Launch at login" aktivieren
