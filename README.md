@@ -187,6 +187,7 @@ Befehle im Terminal ausführen
 
 #### Websites Ordner erstellen
 * Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
+* Darin eine .htaccess mit folgendem Inhalt erstellen `Options +Indexes`
 
 
 #### SMB Verbindung - Signierung deaktivieren
