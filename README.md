@@ -133,7 +133,9 @@
   * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
 * Bluetooth → "Bluetooth in der Menüleiste anzeige" aktivieren
 * Ton → "Lautstärke in der Menüleiste anzeige" aktivieren
-* Bildschirmschoner → Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/)
+* Bildschirmschoner
+  * Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/) oder
+  * [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
 * Maus Einstellungen
   * "Scrollrichtung: Natürlich" deaktivieren
   * Rechtsklick aktivieren
