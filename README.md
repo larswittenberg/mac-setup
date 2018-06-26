@@ -250,3 +250,4 @@ Befehle im Terminal ausführen
   * Powerline Schritt übersprungen
   * Patched Hack Font Download siehe oben
 * [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
+* [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
