@@ -127,6 +127,7 @@
   * Position: unten
   * Fenster hinter Programmsymbol im Dock ablegen
   * Dock automatisch ein- und ausblenden
+  * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
 * Rechtschreibkorrektur ausschalten
   * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
 * Datum und Uhrzeit in der Menüleiste anzeigen
