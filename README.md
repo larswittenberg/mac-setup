@@ -216,7 +216,7 @@ Befehle im Terminal ausführen
 * General → After upload: "Open in browser" deaktivieren
 * General → After upload: "Short links" aktivieren
 * Advanced → Filename template: `%Y%m%d_%W`
-* Hotkeys → Capture area `cmd` + `Shift` + `5`
+* Hotkeys → Capture area `cmd` + `Shift` + `6`
 * Hotkeys → Open Editor `cmd` + `Shift` + `0`
 * FTP Upload auf eigenen Server
 
