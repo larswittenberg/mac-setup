@@ -254,3 +254,4 @@ Befehle im Terminal ausführen
   * Patched Hack Font Download siehe oben
 * [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
 * [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
+* [iTerm2 - how to pimp yout macOS terminal](https://www.aptgetupdate.de/2017/04/12/howto-iterm2-pimp-your-macos-terminal/)
