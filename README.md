@@ -45,7 +45,6 @@
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
 * [App Cleaner (Uninstaller)](https://freemacsoft.net/appcleaner/)
-* [Jumpcut App - Minimalist Clipboard Buffering](http://jumpcut.sourceforge.net/)
 * [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
 
 
