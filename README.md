@@ -38,7 +38,6 @@
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
-* [Rename - Hassle-free file renaming](https://www.macupdate.com/app/mac/33659/rename)
 * [NameChanger](https://mrrsoftware.com/namechanger/)
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
