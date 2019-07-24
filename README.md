@@ -63,6 +63,10 @@
 * [ImageOptim](https://imageoptim.com/)
 * [Yarn](https://yarnpkg.com/lang/en/) `brew install yarn`
 * [NodeJS](https://nodejs.org/en/download/)
+* [NVM](https://github.com/nvm-sh/nvm)
+  * Installation via curl `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
+  * Install the latest version with `nvm install node`
+  * Install the latest LTS version with `nvm install --lts`
 
 
 ### Mac App Store Links
