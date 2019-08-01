@@ -108,7 +108,7 @@ Finder Menü-Leiste → Darstellung
   * Terminal neu Starten
   * `$ brew doctor` Checkup
 * Apps mit Homebrew installieren
-  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim filezilla sequel-pro mamp canary appcleaner`
+  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim filezilla iterm2 sequel-pro mamp canary appcleaner`
 
 
 
@@ -149,7 +149,13 @@ Finder Menü-Leiste → Darstellung
 ### Developer Basics
 * [Atom Editor](https://atom.io/)
 * [iTerm2 - Terminal Replacement](https://www.iterm2.com/)
+* [zsh](https://www.zsh.org/)
+  * `$ brew install zsh`
+  * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+  * [Info Link](https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/)
 * [Oh-My-Zsh](http://ohmyz.sh/)
+  * Weitere Einstellungen im Abschnitt ganz unten
+  * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
   * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
