@@ -66,6 +66,37 @@
     * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 
 
+## Finder
+Einstellungen allgemein
+
+* Allgemein
+  * Neue Finder-Fenster zeigen: Schreibtisch
+* Seitenleiste
+  * Objekte zusätzlich aktivieren:
+    * Bilder
+    * [Benutzername]
+    * [Geräte]
+    * Festplatten
+  * Objekte deaktivieren:
+    * CDs, DVDs und iPods
+    * Tags
+* Erweitert
+  * Alle Dateinnamemsuffixe einblenden: aktivieren
+
+* Rechtsklick im Finder → Darstellungsoptionen einblenden
+  * Sortiert nach: Art
+
+* Finder Menü-Leiste
+  * Darstellung
+    * Pfadleiste anzeigen
+    * Statusleiste anzeigen
+
+Befehle im Terminal ausführen
+* Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
+* Library Ordner anzeigen → `chflags nohidden ~/Library`
+
+
+
 ## Basics
 
 * Homebrew installieren
@@ -189,15 +220,6 @@
 
 
 
-### Finder Einstellungen
-* Neue Finder-Fenster zeigen: Schreibtisch
-* Sortierung der Dateien: Rechtsklick im Finder → Darstellungsoptionen einblenden → Ausrichten nach: Name & Sortiert nach: Art
-
-Befehle im Terminal ausführen
-* Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
-* Pfad-Leiste anzeigen → `defaults write com.apple.finder ShowPathbar -bool true`
-* Status-Leiste anzeigen → `defaults write com.apple.finder ShowStatusBar -bool true`
-* Library Ordner anzeigen → `chflags nohidden ~/Library`
 
 
 #### GitHub SSH Keys erstellen
