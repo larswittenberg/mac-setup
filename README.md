@@ -117,16 +117,25 @@ Finder Menü-Leiste → Darstellung
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
+* [Pocket App](https://itunes.apple.com/us/app/pocket/id568494494?mt=12)
+* [Trello](https://itunes.apple.com/de/app/trello/id1278508951?mt=12)
 * [Spotify](https://www.spotify.com/de/download/mac/)
 * [Skype](http://www.skype.com/de/download-skype/skype-for-mac/)
+* [WhatsApp](https://www.whatsapp.com/download/?lang=de)
+* [Luminar 3](https://skylum.com/de/luminar)
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
 * [VLC](http://www.vlc.de/vlc_download_mac_os_x.php)
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
 * [Authy MacApp](https://authy.com/download/)
-* [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
+* [Pages](https://itunes.apple.com/de/app/pages/id409201541)
+* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
+* [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
+* [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
+* [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
+
 
 
 ### Treiber
@@ -144,6 +153,9 @@ Finder Menü-Leiste → Darstellung
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
+* [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
+* [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
+* [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 
 
 ### Developer Basics
@@ -173,15 +185,6 @@ Finder Menü-Leiste → Darstellung
   * Install the latest LTS version with `nvm install --lts`
 
 
-### Mac App Store Links
-* [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
-* [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
-* [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
-* [Trello](https://itunes.apple.com/de/app/trello/id1278508951?mt=12)
-* [Pages](https://itunes.apple.com/de/app/pages/id409201541)
-* [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
-* [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
-* [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 
 
 ### Chrome Erweiterungen
