@@ -33,6 +33,9 @@
     * Wörter automatisch groß schreiben: deaktivieren
     * Punkt mit doppeltem Leerzeichen hinzufügen: deaktivieren
   * Kurzbefehle
+    * Spotlight
+      * Spotlight-Suche anzeigen: deaktivieren
+      * Finder-Suchfenster anzeigen: deaktivieren
     * In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung): Alle Steuerungen aktivieren (Wechsel zwischen Buttons per Tabulator-Taste)
 * Maus
   * Scrollrichtung Natürlich: deaktivieren
@@ -247,7 +250,6 @@ Finder Menü-Leiste → Darstellung
 * Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Atom.app"```
 
 #### Alfred
-* Spotlight Shortcut deaktivieren: Systemeinstellungen → Tastatur → Kurzbefehle → Spotlight → beide Punkte deaktivieren
 * Alfred Hotkey `cmd` + `Space`
 * Appearance → Options → "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
 * Eingaben für 5 Minuten behalten
