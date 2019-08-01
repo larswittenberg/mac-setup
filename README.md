@@ -103,7 +103,8 @@ Finder Menü-Leiste → Darstellung
 * Homebrew Cask installieren
   * `brew tap caskroom/cask`
 * Apps mit Homebrew installieren
-  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim filezilla sequel-pro mamp canary`
+  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim filezilla sequel-pro mamp canary appcleaner`
+
 
 
 ## Tools & Programme
@@ -119,6 +120,8 @@ Finder Menü-Leiste → Darstellung
 * [Alfred](https://www.alfredapp.com/)
 * [KeePassX](https://www.keepassx.org/downloads/)
 * [Authy MacApp](https://authy.com/download/)
+* [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
+* [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 
 
 ### Treiber
@@ -131,14 +134,11 @@ Finder Menü-Leiste → Darstellung
 * [Slack](https://slack.com/ssb/download-osx)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
-* [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [NameChanger](https://mrrsoftware.com/namechanger/)
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
-* [App Cleaner (Uninstaller)](https://freemacsoft.net/appcleaner/)
-* [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
 
 
 ### Developer Basics
@@ -150,7 +150,6 @@ Finder Menü-Leiste → Darstellung
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Git Tower](http://www.git-tower.com/download)
 * [Fork - git client](https://git-fork.com/)
-* ~~[GitKraken Git GUI](https://www.gitkraken.com/)~~
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
@@ -164,7 +163,6 @@ Finder Menü-Leiste → Darstellung
 
 
 ### Mac App Store Links
-
 * [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104)
 * [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
 * [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
@@ -176,8 +174,6 @@ Finder Menü-Leiste → Darstellung
 
 
 ### Chrome Erweiterungen
-
-
 * [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 * [Deaktivierungs-Add-on von Google Analytics](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
@@ -188,9 +184,10 @@ Finder Menü-Leiste → Darstellung
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * Evernote Web Clipper
 * AdBlock
-* Cisco WebEx Extension
-* Refined Twitter
 
+
+
+## Weitere Einstellungen
 
 ### NPM Installationen
 
@@ -210,32 +207,21 @@ Finder Menü-Leiste → Darstellung
   * [Hack | A typeface designed for source code / Patched fonts for Powerline users.](https://github.com/powerline/fonts/tree/master/Hack)
   * wegmeister Hausschrift installieren
 
-
-
-
-
-
-
-
-
-
-
-
-#### GitHub SSH Keys erstellen
+### GitHub SSH Keys erstellen
 * [Anleitung](https://help.github.com/articles/generating-ssh-keys/)
 
 
-#### MacOS Quick Look (Datei Vorschau) erweitern
+### MacOS Quick Look (Datei Vorschau) erweitern
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
   * Installation via Homebrew `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo`
 
 
-#### Websites Ordner erstellen
+### Websites Ordner erstellen
 * Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
 * Darin eine .htaccess mit folgendem Inhalt erstellen `Options +Indexes`
 
 
-#### SMB Verbindung - Signierung deaktivieren
+### SMB Verbindung - Signierung deaktivieren
 * [Turn off packet signing for SMB 2 and SMB 3 connections](https://support.apple.com/en-us/HT205926)
 
 
