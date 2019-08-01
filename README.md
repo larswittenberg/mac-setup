@@ -2,6 +2,70 @@
 ---
 
 
+## OS X Systemeinstellungen
+
+* Allgemein
+  * Rollbalken einblenden: Beim scorllen
+  * Fenster beim Beenden einen Programms schließen: deaktivieren
+* Schreibtisch & Bildschirmschoner
+  * Bildschirmschoner
+    * Starten nach 5 Minuten
+    * Mit Uhr anzeigen
+  * Mögliche Bildschirmschoner
+    * Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/) oder
+    * [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
+* Dock
+  * Größe: mittel
+  * Vergrößerung aktivieren
+  * Position: unten
+  * Fenster hinter Programmsymbol im Dock ablegen
+  * Dock automatisch ein- und ausblenden
+  * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
+* Sicherheit
+  * Firewall aktivieren
+* Spotlight
+  * Alles deaktivieren
+* Energie sparen
+  * Zeiten einstellen
+* Tastatur
+  * Text
+    * Automatische Korrektur: deaktivieren (Rechtschreibkorrektur ausschalten)
+    * Wörter automatisch groß schreiben: deaktivieren
+    * Punkt mit doppeltem Leerzeichen hinzufügen: deaktivieren
+  * Kurzbefehle
+    * In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung): Alle Steuerungen aktivieren (Wechsel zwischen Buttons per Tabulator-Taste)
+* Maus
+  * Scrollrichtung Natürlich: deaktivieren
+* Trackpad
+  * Zeigen und Klicken
+    * Sekundärklick: Rechts unten klicken
+    * Klick durch Tippen: aktivieren
+    * Zeigerbewegung: Geschwindigkeit auf ~ 75% stellen
+  * Scrollen und Zoomen
+    * Scrollrichtung Natürlich: deaktivieren
+  * Weitere Gesten
+    * Mit streichen Seiten blättern: deaktivieren
+* Ton
+  * Lautstärke in der Menüleiste anzeige: aktivieren
+* Bluetooth
+  * Bluetooth in der Menüleiste anzeigen: aktivieren
+* Freigaben
+  * Gerätenamen ändern (Danach System neustarten)
+* Datum & Uhrzeit
+  * Uhr
+    * Datum und Uhrzeit in der Menüleiste anzeigen
+    * Datumsoptionen
+      * Wochentag anzeigen: aktivieren
+      * Datum anzeigen: aktivieren
+* Bedienungshilfen
+  * Zoomen
+    * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
+    * Zoomstil: "Bild-in-Bild" (durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet)
+    * Zoomstil Optionen → Fensterposition: Mauszeiger folgen
+  * Anzeige
+    * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
+
+
 ## Basics
 
 * Homebrew installieren
@@ -118,57 +182,10 @@
 
 
 
-## OS X Systemeinstellungen
 
-* Scrollbars nur beim scrollen anzeigen
-  * Allgemein → "Rollbalken einblenden - Beim scorllen" auswählen
-* Gerätenamen ändern
-  * Systemeinstellungen → Freigaben
-  * Danach System neustarten
-* Dock
-  * Größe: mittel
-  * Vergrößerung aktivieren
-  * Position: unten
-  * Fenster hinter Programmsymbol im Dock ablegen
-  * Dock automatisch ein- und ausblenden
-  * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
-* Rechtschreibkorrektur ausschalten
-  * Systemeinstellungen → Tastatur → Text → Automatische Korrektur
-* Datum und Uhrzeit in der Menüleiste anzeigen
-  * Systemeinstellungen → Datum & Uhrzeit → Uhr → "Datum anzeigen
-* Bluetooth → "Bluetooth in der Menüleiste anzeige" aktivieren
-* Ton → "Lautstärke in der Menüleiste anzeige" aktivieren
-* Bildschirmschoner
-  * Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/) oder
-  * [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
-* Maus Einstellungen
-  * "Scrollrichtung: Natürlich" deaktivieren
-  * Rechtsklick aktivieren
-  * Zeigerbewegung → Geschwindigkeit auf ~ 75% stellen
-  * "Mit streichen Seiten blättern" → "Mit zwei Fingern horizontal streichen"
-  * "Mission Control" → "Mit zwei Fingern doppeltippen"
-* Shortcuts
-  * Wechsel zwischen den gleichen Programm-Fenstern `cmd` + `<`
-    * Systemeinstellungen → Tastatur → Kurzbefehle → Tastatur → "Fokus ins nächste Fenster"
-* Wechsel zwischen Buttons per Tabulator-Taste
-  * Systemeinstellungen → Tastatur → Kurzbefehle → "In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung)" → "Alle Steuerungen" aktivieren
-* Dokumente und Fenster beim Öffnen eines Programms wiederherstellen
-  * Systemeinstellungen → Allgemein → "Fenster beim Beenden einen Programms schließen" deaktivieren
-* User Interface Transparenz deaktivieren
-  * Systemeinstellungen → Bedienungshilfen → Anzeige → "Transparenz reduzieren" | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
-* Bildschirmlupe / Zoomen
-  * durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet
-  * Systemeinstellungen → Bedienungshilfen → Zoomen →
-    * "Tastaturkurzbefehle zum Zoomen verwenden" aktivieren
-    * Zoomstil: "Bild-in-Bild"
-    * Zoomstil Optionen → Temporäres Zoomen aktivieren
-    * Zoomstil Optionen → Fensterposition: Mauszeiger folgen
-* Weitere Systemeinstellungen festlegen
-  * Energie sparen
-* Firewall aktivieren
-  * Systemeinstellungen → Sicherheit → Firewall
-* Ortungsdienste deaktivieren
-  * Systemeinstellungen → Sicherheit → Privatsphäre → "Ortungsdienste aktivieren" deaktivieren
+
+
+
 
 
 
