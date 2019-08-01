@@ -67,7 +67,6 @@
 
 
 ## Finder
-Einstellungen allgemein
 
 * Allgemein
   * Neue Finder-Fenster zeigen: Schreibtisch
@@ -83,15 +82,15 @@ Einstellungen allgemein
 * Erweitert
   * Alle Dateinnamemsuffixe einblenden: aktivieren
 
-* Rechtsklick im Finder → Darstellungsoptionen einblenden
-  * Sortiert nach: Art
+Rechtsklick im Finder → Darstellungsoptionen einblenden
+* Sortiert nach: Art
 
-* Finder Menü-Leiste
-  * Darstellung
-    * Pfadleiste anzeigen
-    * Statusleiste anzeigen
+Finder Menü-Leiste → Darstellung
+* Pfadleiste anzeigen
+* Statusleiste anzeigen
 
-Befehle im Terminal ausführen
+**Befehle im Terminal ausführen**
+
 * Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
 * Library Ordner anzeigen → `chflags nohidden ~/Library`
 
