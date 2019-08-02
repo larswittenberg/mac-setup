@@ -111,7 +111,7 @@ Finder Menü-Leiste → Darstellung
   * Terminal neu Starten
   * `$ brew doctor` Checkup
 * Apps mit Homebrew installieren
-  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim iterm2 sequel-pro mamp canary appcleaner`
+  * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim iterm2 sequel-pro mamp appcleaner`
 
 
 
