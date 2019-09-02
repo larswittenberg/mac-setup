@@ -1,6 +1,8 @@
 # Mein OS X Setup
 ---
 
+Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
+
 
 ## OS X Systemeinstellungen
 
