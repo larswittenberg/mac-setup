@@ -24,9 +24,11 @@ Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
   * Dock automatisch ein- und ausblenden
   * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
 * Sicherheit
+  * FileVault aktivieren
   * Firewall aktivieren
 * Spotlight
   * Alles deaktivieren
+  * Programme aktivieren
 * Energie sparen
   * Zeiten einstellen
 * Tastatur
@@ -91,8 +93,8 @@ Rechtsklick im Finder → Darstellungsoptionen einblenden
 * Sortiert nach: Art
 
 Finder Menü-Leiste → Darstellung
-* Pfadleiste anzeigen
-* Statusleiste anzeigen
+* Pfadleiste einblenden
+* Statusleiste einblenden
 
 **Befehle im Terminal ausführen**
 
