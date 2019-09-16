@@ -168,7 +168,7 @@ Finder Menü-Leiste → Darstellung
 * [Atom Editor](https://atom.io/)
 * [iTerm2 - Terminal Replacement](https://www.iterm2.com/) `brew cask install iterm2`
 * [zsh](https://www.zsh.org/)
-  * `$ brew install zsh`
+  * `brew install zsh`
   * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
   * [Info Link](https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/)
 * [Oh-My-Zsh](http://ohmyz.sh/)
@@ -212,15 +212,15 @@ Finder Menü-Leiste → Darstellung
 ### NPM Installationen
 
 * Gulp
-  * `$ yarn global add gulp`
+  * `yarn global add gulp`
 * Browser Sync
-  * `$ yarn global add browser-sync`
+  * `yarn global add browser-sync`
 * MJML
-  * `$ yarn global add mjml`
+  * `yarn global add mjml`
 * NPM Check Updates
   * https://www.npmjs.com/package/npm-check-updates
-  * `$ yarn global add npm-check-updates`
-  * Benutzung: `$ ncu`
+  * `yarn global add npm-check-updates`
+  * Benutzung: `ncu`
 
 
 ### Fonts
