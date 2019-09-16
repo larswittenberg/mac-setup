@@ -111,9 +111,9 @@ Finder Menü-Leiste → Darstellung
   * `brew tap caskroom/cask`
   * [Formulae durchsuchen](https://formulae.brew.sh/cask/)
 * PATH anpassen [Link mit Infos](https://sourabhbajaj.com/mac-setup/Homebrew/)
-  * `$ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
+  * `echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
   * Terminal neu Starten
-  * `$ brew doctor` Checkup
+  * `brew doctor` Checkup
 * Apps mit Homebrew installieren
   * `brew cask install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy atom imageoptim iterm2 sequel-pro mamp appcleaner`
 
@@ -152,22 +152,21 @@ Finder Menü-Leiste → Darstellung
 
 ### Nice to have
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
-* [Slack](https://slack.com/ssb/download-osx)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
-* [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx)
-* [NameChanger](https://mrrsoftware.com/namechanger/)
+* [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx) `brew cask install teamviewer`
+* [NameChanger](https://mrrsoftware.com/namechanger/) `brew cask install namechanger`
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
-* [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563)
+* [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563) `brew cask install sip`
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 
 
 ### Developer Basics
 * [Atom Editor](https://atom.io/)
-* [iTerm2 - Terminal Replacement](https://www.iterm2.com/)
+* [iTerm2 - Terminal Replacement](https://www.iterm2.com/) `brew cask install iterm2`
 * [zsh](https://www.zsh.org/)
   * `$ brew install zsh`
   * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
@@ -178,7 +177,7 @@ Finder Menü-Leiste → Darstellung
   * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 * [MAMP](https://www.mamp.info/de/downloads/)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
-* [Git Tower](http://www.git-tower.com/download)
+* [Git Tower](http://www.git-tower.com/download) `brew cask install tower`
 * [Fork - git client](https://git-fork.com/)
 * [Sequel Pro](http://www.sequelpro.com/download)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
