@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<folders>
+	<folder>
+		<title>Git Commits</title>
+		<snippets>
+			<snippet>
+				<title>Update (Code-Änderungen)</title>
+				<content>UPDATE: </content>
+			</snippet>
+			<snippet>
+				<title>Feature</title>
+				<content>FEATURE: </content>
+			</snippet>
+			<snippet>
+				<title>Fix (Bugfix)</title>
+				<content>FIX: </content>
+			</snippet>
+			<snippet>
+				<title>Content (Text-Änderungen)</title>
+				<content>CONTENT: </content>
+			</snippet>
+			<snippet>
+				<title>WIP Feature</title>
+				<content>WIP FEATURE: </content>
+			</snippet>
+			<snippet>
+				<title>Build (gulp,npm)</title>
+				<content>BUILD: </content>
+			</snippet>
+			<snippet>
+				<title>Docs (readme)</title>
+				<content>DOCS: </content>
+			</snippet>
+			<snippet>
+				<title>Perf</title>
+				<content>PERF: </content>
+			</snippet>
+			<snippet>
+				<title>Style (Code-Formatierungen)</title>
+				<content>STYLE: </content>
+			</snippet>
+			<snippet>
+				<title>Test</title>
+				<content>TEST: </content>
+			</snippet>
+			<snippet>
+				<title>CI</title>
+				<content>CI: </content>
+			</snippet>
+		</snippets>
+	</folder>
+	<folder>
+		<title>Mail Adressen</title>
+		<snippets>
+			<snippet>
+				<title>Mail Privat</title>
+				<content>XXX</content>
+			</snippet>
+			<snippet>
+				<title>Mail Beruflich</title>
+				<content>XXX</content>
+			</snippet>
+		</snippets>
+	</folder>
+</folders>
