@@ -269,9 +269,8 @@ Finder Menü-Leiste → Darstellung
 * FTP Upload auf eigenen Server
 
 #### Spectacle
-* Left Half `alt` + `cmd` + `←`
-* Right Half `alt` + `cmd` + `→`
 * "Launch Spectacle at Login" aktivieren
+* Alle anderen Einstellungen so belassen
 
 #### TextEdit
 * Einstellungen → Neues Dokument
