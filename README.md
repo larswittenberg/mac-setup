@@ -227,8 +227,9 @@ Finder Menü-Leiste → Darstellung
   * [Hack | A typeface designed for source code / Patched fonts for Powerline users.](https://github.com/powerline/fonts/tree/master/Hack)
   * wegmeister Hausschrift installieren
 
-### GitHub SSH Keys erstellen
-* [Anleitung](https://help.github.com/articles/generating-ssh-keys/)
+### Git SSH Keys erstellen
+* [Anleitung Github](https://help.github.com/articles/generating-ssh-keys/)
+* [Anleitung Bitbucket](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)
 
 
 ### MacOS Quick Look (Datei Vorschau) erweitern
