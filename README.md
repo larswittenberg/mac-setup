@@ -162,6 +162,7 @@ Finder Menü-Leiste → Darstellung
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
 * [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563) `brew cask install sip`
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
+* [Vanilla · Hide menu bar icons on your Mac](https://matthewpalmer.net/vanilla/)
 
 
 ### Developer Basics
