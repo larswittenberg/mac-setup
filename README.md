@@ -252,8 +252,9 @@ Finder Menü-Leiste → Darstellung
 
 #### FileZilla
 * Servermanager Einträge importieren
+* Einstellungen → Übertragungen → Maximale Anzahl gleichzeitiger Übertragungen: Binär
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
-* Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Atom.app"```
+* Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Visual Studio Code.app"```
 
 #### Alfred
 * Alfred Hotkey `cmd` + `Space`
