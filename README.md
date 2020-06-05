@@ -235,8 +235,8 @@ Finder Menü-Leiste → Darstellung
 
 
 ### MacOS Quick Look (Datei Vorschau) erweitern
-* [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
-  * Installation via Homebrew `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo`
+* [All-in-one Quick Look plugin](https://github.com/samuelmeuli/glance)
+  * Glance provides Quick Look previews for files that macOS doesn't support out of the box.
 
 
 ### Websites Ordner erstellen
