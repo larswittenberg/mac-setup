@@ -134,7 +134,7 @@ Finder Menü-Leiste → Darstellung
 * [VLC](http://www.vlc.de/vlc_download_mac_os_x.php)
 * [Spectacle](https://www.spectacleapp.com/)
 * [Alfred](https://www.alfredapp.com/)
-* [KeePassX](https://www.keepassx.org/downloads/)
+* [KeePassXC](https://github.com/keepassxreboot/keepassxc)
 * [Authy MacApp](https://authy.com/download/)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [Pages](https://itunes.apple.com/de/app/pages/id409201541)
