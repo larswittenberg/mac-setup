@@ -160,7 +160,7 @@ Finder Menü-Leiste → Darstellung
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
-* [Sip Color Picker](https://itunes.apple.com/de/app/sip/id507257563) `brew cask install sip`
+* [Kelir Color Picker](https://apps.apple.com/de/app/kelir/id1145215534?mt=12)
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 * [Hidden Bar · Hide menu bar icons](https://github.com/dwarvesf/hidden)
 
