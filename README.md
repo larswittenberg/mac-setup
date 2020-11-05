@@ -152,6 +152,7 @@ Finder Menü-Leiste → Darstellung
 
 ### Nice to have
 * [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
+* [Typora - Markdown Editor](https://typora.io/)
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx) `brew cask install teamviewer`
 * [NameChanger](https://mrrsoftware.com/namechanger/) `brew cask install namechanger`
