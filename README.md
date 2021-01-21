@@ -147,7 +147,6 @@ Finder Menü-Leiste → Darstellung
 
 ### Treiber
 * [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
-* [Suunto Moveslink App](http://www.movescount.com/de/connect/download?type=moveslink&os=mac)
 
 
 ### Nice to have
