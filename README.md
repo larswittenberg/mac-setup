@@ -17,12 +17,16 @@ Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
     * Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/) oder
     * [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
 * Dock
-  * Größe: mittel
-  * Vergrößerung aktivieren
+  * **Screenshot vorhanden**
+  * Größe: eher klein
+  * Vergrößerung deaktivieren
   * Position: unten
   * Fenster hinter Programmsymbol im Dock ablegen
+  * Öffnen von Programmen animieren > deaktivieren
   * Dock automatisch ein- und ausblenden
   * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
+  * Anpassungen per Terminal:
+    * Animation beim ein/ausblenden deaktivieren: `defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock`
 * Sicherheit
   * FileVault aktivieren
   * Firewall aktivieren
