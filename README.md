@@ -112,7 +112,7 @@ Finder Menü-Leiste → Darstellung
 * Homebrew installieren
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * Homebrew Cask installieren
-  * `brew tap caskroom/cask`
+  * `brew tap homebrew/cask`
   * [Formulae durchsuchen](https://formulae.brew.sh/cask/)
 * PATH anpassen [Link mit Infos](https://sourabhbajaj.com/mac-setup/Homebrew/)
   * `echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
