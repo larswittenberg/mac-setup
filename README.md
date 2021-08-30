@@ -146,6 +146,7 @@ Finder Menü-Leiste → Darstellung
 * [Outbank](https://itunes.apple.com/app/apple-store/id1094254051?pt=59026&ct=website&mt=8)
 * [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
 * [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
+* [Latest - Software Update Checker](https://max.codes/latest/)
 
 
 
