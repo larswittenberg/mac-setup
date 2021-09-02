@@ -150,8 +150,9 @@ Finder Menü-Leiste → Darstellung
 
 
 
-### Treiber
+### Hardware-spezifisch
 * [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
+* [Suunto Link](https://www.suunto.com/de-de/Support/softwarehilfe/suuntolink/)
 
 
 ### Nice to have
