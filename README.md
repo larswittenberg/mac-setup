@@ -169,6 +169,7 @@ Finder Menü-Leiste → Darstellung
 * [Kelir Color Picker](https://apps.apple.com/de/app/kelir/id1145215534?mt=12)
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 * [Hidden Bar · Hide menu bar icons](https://github.com/dwarvesf/hidden)
+* [Shottr -  Screenshot Tool mit Scrollshot, Color-Picker und Text-Erkennung](https://shottr.cc/)
 
 
 ### Developer Basics
