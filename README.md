@@ -1,8 +1,8 @@
 # Mein OS X Setup
+
 ---
 
 Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
-
 
 ## OS X Systemeinstellungen
 
@@ -76,7 +76,6 @@ Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
   * Anzeige
     * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 
-
 ## Finder
 
 * Allgemein
@@ -94,18 +93,18 @@ Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
   * Alle Dateinnamemsuffixe einblenden: aktivieren
 
 Rechtsklick im Finder → Darstellungsoptionen einblenden
+
 * Sortiert nach: Art
 
 Finder Menü-Leiste → Darstellung
+
 * Pfadleiste einblenden
 * Statusleiste einblenden
 
-**Befehle im Terminal ausführen**
+Befehle im Terminal ausführen
 
 * Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
 * Library Ordner anzeigen → `chflags nohidden ~/Library`
-
-
 
 ## Basics
 
@@ -121,9 +120,8 @@ Finder Menü-Leiste → Darstellung
 * Apps mit Homebrew installieren
   * `brew install google-chrome firefox evernote dropbox spotify skype the-unarchiver vlc spectacle alfred keepassx authy imageoptim iterm2 sequel-pro mamp appcleaner tower visual-studio-code github`
 
-
-
 ## Tools & Programme
+
 * [Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
 * [Evernote](https://evernote.com/intl/de/download/?offer=www_menu)
@@ -149,13 +147,13 @@ Finder Menü-Leiste → Darstellung
 * [Latest - Software Update Checker](https://max.codes/latest/)
 * [MarkText - Markdown Editor](https://marktext.app/)
 
-
 ### Hardware-spezifisch
+
 * [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
 * [Suunto Link](https://www.suunto.com/de-de/Support/softwarehilfe/suuntolink/)
 
-
 ### Nice to have~
+
 * ~~[Typora - Markdown Editor](https://typora.io/)~~
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx) `brew cask install teamviewer`
@@ -171,8 +169,8 @@ Finder Menü-Leiste → Darstellung
 * [Hidden Bar · Hide menu bar icons](https://github.com/dwarvesf/hidden)
 * [Shottr -  Screenshot Tool mit Scrollshot, Color-Picker und Text-Erkennung](https://shottr.cc/)
 
-
 ### Developer Basics
+
 * [Atom Editor](https://atom.io/)
 * [iTerm2 - Terminal Replacement](https://www.iterm2.com/) `brew cask install iterm2`
 * [zsh](https://www.zsh.org/)
@@ -199,10 +197,8 @@ Finder Menü-Leiste → Darstellung
   * Install the latest version with `nvm install node`
   * Install the latest LTS version with `nvm install --lts`
 
-
-
-
 ### Chrome Erweiterungen
+
 * [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 * [Deaktivierungs-Add-on von Google Analytics](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
@@ -212,8 +208,6 @@ Finder Menü-Leiste → Darstellung
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * Evernote Web Clipper
 * AdBlock
-
-
 
 ## Weitere Einstellungen
 
@@ -226,49 +220,52 @@ Finder Menü-Leiste → Darstellung
 * MJML
   * `yarn global add mjml`
 * NPM Check Updates
-  * https://www.npmjs.com/package/npm-check-updates
+  * [https://www.npmjs.com/package/npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
   * `yarn global add npm-check-updates`
   * Benutzung: `ncu`
 
-
 ### Fonts
-  * [Hack | A typeface designed for source code / Patched fonts for Powerline users.](https://github.com/powerline/fonts/tree/master/Hack)
-  * wegmeister Hausschrift installieren
+
+* [Hack | A typeface designed for source code / Patched fonts for Powerline users.](https://github.com/powerline/fonts/tree/master/Hack)
+* wegmeister Hausschrift installieren
 
 ### Git SSH Keys erstellen
+
 * [Anleitung Github](https://help.github.com/articles/generating-ssh-keys/)
 * [Anleitung Bitbucket](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)
 
-
 ### MacOS Quick Look (Datei Vorschau) erweitern
+
 * [All-in-one Quick Look plugin](https://github.com/samuelmeuli/glance)
   * Glance provides Quick Look previews for files that macOS doesn't support out of the box.
 
-
 ### Websites Ordner erstellen
+
 * Im Benutzer-Profil einen Ordner `Sites` erstellen. Dieser bekommt dann automatisch das Icon.
 * Darin eine .htaccess mit folgendem Inhalt erstellen `Options +Indexes`
 
-
 ### SMB Verbindung - Signierung deaktivieren
-* [Turn off packet signing for SMB 2 and SMB 3 connections](https://support.apple.com/en-us/HT205926)
 
+* [Turn off packet signing for SMB 2 and SMB 3 connections](https://support.apple.com/en-us/HT205926)
 
 ## Programm Einstellungen
 
-#### FileZilla
+### FileZilla
+
 * Servermanager Einträge importieren
 * Einstellungen → Übertragungen → Maximale Anzahl gleichzeitiger Übertragungen: 6
 * Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
 * Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Visual Studio Code.app"```
 
-#### Alfred
+### Alfred
+
 * Alfred Hotkey `cmd` + `Space`
 * Appearance → Options → "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
 * Eingaben für 5 Minuten behalten
   Advanced → History → "Show latest query if within 5 minutes" aktivieren
 
-#### Monosnap
+### Monosnap
+
 * General → "Launch at login" aktivieren
 * General → After upload: Copy direct image link
 * General → After upload: "Open in browser" deaktivieren
@@ -276,16 +273,19 @@ Finder Menü-Leiste → Darstellung
 * Advanced → Filename template: `%Y%m%d_%W`
 * Hotkeys → Capture area `cmd` + `Shift` + `4`
 
-#### Spectacle
+### Spectacle
+
 * "Launch Spectacle at Login" aktivieren
 * Alle anderen Einstellungen so belassen
 
-#### TextEdit
+### TextEdit
+
 * Einstellungen → Neues Dokument
   * Format: Reiner Text
   * Schrift: Hack Regular, 16
 
-#### Chrome
+### Chrome
+
 * Vor Beenden waren aktivieren → Menü Chrome → "Vor Beenden waren" aktivieren
 * Pfad für Downloads ändern auf "Desktop"
 * Developer-Tools → Settings → Devices → folgende Custom Devies anlegen
@@ -294,13 +294,15 @@ Finder Menü-Leiste → Darstellung
   * Laptop LG mit 1280x800
   * Laptop MD mit 1024x768
 
-#### Evernote
+### Evernote
+
 * Ansichtsoptionen → "Ansicht seitliche Leiste"
 * Einstellungen → Allgemein → "Notizanzahl in Seitenleiste anzeigen" aktivieren
 * Einstellungen → Allgemein → "Evernote-Helfer startten, wenn ich den Computer starte" aktivieren
 * Einstellungen → Formatierung → Notiztext → Helvetica Neue 13
 
-#### iTerm2 + ZSH
+### iTerm2 + ZSH
+
 * Theme Neu 2021: [Sindre Sorhus' Snazzy color theme.](https://github.com/sindresorhus/iterm2-snazzy)
 * Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
   * Powerline Schritt übersprungen
