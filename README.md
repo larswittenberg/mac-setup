@@ -147,7 +147,7 @@ Finder Menü-Leiste → Darstellung
 * [Monosnap - Screenshot Tool](https://itunes.apple.com/ru/app/monosnap/id540348655)
 * [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy)
 * [Latest - Software Update Checker](https://max.codes/latest/)
-
+* [MarkText - Markdown Editor](https://marktext.app/)
 
 
 ### Hardware-spezifisch
@@ -155,9 +155,8 @@ Finder Menü-Leiste → Darstellung
 * [Suunto Link](https://www.suunto.com/de-de/Support/softwarehilfe/suuntolink/)
 
 
-### Nice to have
-* [Basecamp 3 Mac App](https://basecamp.com/help/3/guides/apps)
-* [Typora - Markdown Editor](https://typora.io/)
+### Nice to have~
+* ~~[Typora - Markdown Editor](https://typora.io/)~~
 * [MediathekView](https://sourceforge.net/projects/zdfmediathk/)
 * [TeamViewer](https://www.teamviewer.com/de/download/mac.aspx) `brew cask install teamviewer`
 * [NameChanger](https://mrrsoftware.com/namechanger/) `brew cask install namechanger`
@@ -167,6 +166,7 @@ Finder Menü-Leiste → Darstellung
 * [Android File Transfer](https://www.android.com/filetransfer/)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
 * [Kelir Color Picker](https://apps.apple.com/de/app/kelir/id1145215534?mt=12)
+* [Pika - Color Picker](https://superhighfives.com/pika)
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 * [Hidden Bar · Hide menu bar icons](https://github.com/dwarvesf/hidden)
 * [Shottr -  Screenshot Tool mit Scrollshot, Color-Picker und Text-Erkennung](https://shottr.cc/)
@@ -187,7 +187,7 @@ Finder Menü-Leiste → Darstellung
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Git Tower](http://www.git-tower.com/download) `brew cask install tower`
 * [Fork - git client](https://git-fork.com/)
-* [Sequel Pro](http://www.sequelpro.com/download)
+* [Sequel Pro](http://www.sequelpro.com/download) oder [Sequel Ace](https://apps.apple.com/de/app/sequel-ace/id1518036000?mt=12)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [ImageOptim](https://imageoptim.com/)
@@ -208,7 +208,6 @@ Finder Menü-Leiste → Darstellung
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
-* [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * Evernote Web Clipper
