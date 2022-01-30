@@ -2,7 +2,10 @@
 
 ---
 
-Inspiration: [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
+## Inspiration
+* [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
+* [macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+
 
 ## OS X Systemeinstellungen
 
