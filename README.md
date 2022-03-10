@@ -3,13 +3,14 @@
 ---
 
 ## Inspiration
+
 * [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
 * [macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
-
 
 ## OS X Systemeinstellungen
 
 * Allgemein
+  * Erscheinugnsbild: Dunkel
   * Rollbalken einblenden: Beim scorllen
   * Fenster beim Beenden einen Programms schließen: deaktivieren
 * Schreibtisch & Bildschirmschoner
@@ -17,22 +18,32 @@
     * Starten nach 5 Minuten
     * Mit Uhr anzeigen
   * Mögliche Bildschirmschoner
-    * Große digitale Uhrzeit → [Padbury Clock](http://padbury.me/clock/) oder
+    * Große digitale Uhrzeit [Padbury Clock](http://padbury.me/clock/)
     * [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
-* Dock
+* Dock & Menüleiste
   * **Screenshot vorhanden**
   * Größe: eher klein
-  * Vergrößerung deaktivieren
+  * Vergrößerung aktivieren
   * Position: unten
-  * Fenster hinter Programmsymbol im Dock ablegen
-  * Öffnen von Programmen animieren > deaktivieren
-  * Dock automatisch ein- und ausblenden
+  * Fenster hinter Programmsymbol im Dock ablegen: aktivieren
+  * Öffnen von Programmen animieren: deaktivieren
+  * Dock automatisch ein- und ausblenden: aktivieren
   * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
   * Anpassungen per Terminal:
     * Animation beim ein/ausblenden deaktivieren: `defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock`
+  * Kontrollzentrum
+    * AirDrop: In Menüleiste anzeigen: aktivieren
+    * Batterie:
+      * Im Kontrollzentrum anzeigen: aktivieren
+      * In Prozent anzeigen: aktivieren
+    * Spotlight: In Menüleiste anzeigen: deaktivieren
+    * Uhr
+      * Datumsoptionen
+        * Wochentag anzeigen: aktivieren
+        * Datum anzeigen: aktivieren
 * Sicherheit
-  * FileVault aktivieren
-  * Firewall aktivieren
+  * FileVault: aktivieren
+  * Firewall: aktivieren
 * Spotlight
   * Alles deaktivieren
   * Programme aktivieren
@@ -47,7 +58,7 @@
     * Spotlight
       * Spotlight-Suche anzeigen: deaktivieren
       * Finder-Suchfenster anzeigen: deaktivieren
-    * In Fenstern und Dialogen mit Tabulatortaste der Reihe nach auswählen (Tastatursteuerung): Alle Steuerungen aktivieren (Wechsel zwischen Buttons per Tabulator-Taste)
+    * Bewege den Fokus mittels Tastaturnavigation zu Steuerelementen: aktivieren
 * Maus
   * Scrollrichtung Natürlich: deaktivieren
 * Trackpad
@@ -60,17 +71,13 @@
   * Weitere Gesten
     * Mit streichen Seiten blättern: deaktivieren
 * Ton
-  * Lautstärke in der Menüleiste anzeige: aktivieren
+  * Toneffekte
+    * Beim Starten Ton abspielen: deaktivieren
+  * Ton in der Menüleiste anzeigen: immer
 * Bluetooth
   * Bluetooth in der Menüleiste anzeigen: aktivieren
 * Freigaben
-  * Gerätenamen ändern (Danach System neustarten)
-* Datum & Uhrzeit
-  * Uhr
-    * Datum und Uhrzeit in der Menüleiste anzeigen
-    * Datumsoptionen
-      * Wochentag anzeigen: aktivieren
-      * Datum anzeigen: aktivieren
+  * Gerätenamen ändern
 * Bedienungshilfen
   * Zoomen
     * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
