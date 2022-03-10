@@ -258,6 +258,12 @@ Befehle im Terminal ausführen
 * Advanced
   * Action when hiding with ESC > Copy Image & Save Image
 
+### Clipy
+
+* Zwischenablageverlauf
+  * Maximal 50 Einträge
+* Tastenkombinationen > Standardeinstellungen passen
+
 ### TextEdit
 
 * Einstellungen → Neues Dokument
