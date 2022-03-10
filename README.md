@@ -91,15 +91,15 @@
 ## Finder
 
 * Allgemein
+  * Diese Objekte auf dem Schreibtisch anzeigen: Alles deaktivieren
   * Neue Finder-Fenster zeigen: Schreibtisch
 * Seitenleiste
   * Objekte zusätzlich aktivieren:
     * Bilder
     * [Benutzername]
-    * [Geräte]
+    * [Gerät]
     * Festplatten
   * Objekte deaktivieren:
-    * CDs, DVDs und iPods
     * Tags
 * Erweitert
   * Alle Dateinnamemsuffixe einblenden: aktivieren
