@@ -62,4 +62,40 @@
 			</snippet>
 		</snippets>
 	</folder>
+<folder>
+		<title>Sonstiges</title>
+		<snippets>
+			<snippet>
+				<title>Stunden buchen</title>
+				<content>XX XX.03 - Homeoffice ✅ ⭕️
+Start: 9:00</content>
+			</snippet>
+			<snippet>
+				<title>Lorem ipsum</title>
+				<content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum est quidem, consequatur ipsum temporibus eius vero vel placeat fugit iste dolores, eligendi voluptatem perspiciatis possimus ab architecto quam dolor ea.Distinctio nihil officia veniam! Nihil suscipit earum, laudantium nemo totam velit consectetur voluptas non incidunt officia. Dolores, ex asperiores maxime ad fuga minima libero, excepturi labore assumenda ipsam atque molestiae?</content>
+			</snippet>
+			<snippet>
+				<title>Viele Grüße</title>
+				<content>Viele Grüße
+Lars Wittenberg</content>
+			</snippet>
+			<snippet>
+				<title>MFG</title>
+				<content>Mit freundlichen Grüßen
+Lars Wittenberg</content>
+			</snippet>
+			<snippet>
+				<title>SpeedUp TimeMachine</title>
+				<content>sudo sysctl debug.lowpri_throttle_enabled=0</content>
+			</snippet>
+			<snippet>
+				<title>PHP echo &lt;br&gt;</title>
+				<content>echo &apos;&lt;br&gt;&apos;;</content>
+			</snippet>
+			<snippet>
+				<title>yarn run Storybook</title>
+				<content>yarn run storybook</content>
+			</snippet>
+		</snippets>
+	</folder>
 </folders>
