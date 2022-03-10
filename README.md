@@ -250,19 +250,13 @@ Befehle im Terminal ausführen
 * Eingaben für 5 Minuten behalten
   Advanced → History → "Show latest query if within 5 minutes" aktivieren
 
-### Monosnap
+### Shottr
 
-* General → "Launch at login" aktivieren
-* General → After upload: Copy direct image link
-* General → After upload: "Open in browser" deaktivieren
-* General → After upload: "Short links" aktivieren
-* Advanced → Filename template: `%Y%m%d_%W`
-* Hotkeys → Capture area `cmd` + `Shift` + `4`
-
-### Spectacle
-
-* "Launch Spectacle at Login" aktivieren
-* Alle anderen Einstellungen so belassen
+* Hotkeys
+  * Area screenshot > `cmd` + `Shift` + `4`
+  * Active window screenshot > `cmd` + `Shift` + `5`
+* Advanced
+  * Action when hiding with ESC > Copy Image & Save Image
 
 ### TextEdit
 
