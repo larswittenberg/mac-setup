@@ -78,6 +78,8 @@
   * Bluetooth in der Menüleiste anzeigen: aktivieren
 * Freigaben
   * Gerätenamen ändern
+* Displays
+  * Auflösung: Skaliert >> Mehr Fläche auswählen
 * Bedienungshilfen
   * Zoomen
     * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
