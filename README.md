@@ -138,7 +138,7 @@ Befehle im Terminal ausführen
 ## Tools & Programme
 
 * Apps mit Homebrew installieren
-  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc alfred authy imageoptim iterm2 sequel-pro mamp appcleaner tower visual-studio-code github`
+  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc alfred authy imageoptim iterm2 sequel-pro mamp appcleaner tower visual-studio-code github microsoft-office`
 
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
@@ -273,7 +273,7 @@ Befehle im Terminal ausführen
 ### Chrome
 
 * Vor Beenden waren aktivieren → Menü Chrome → "Vor Beenden waren" aktivieren
-* Pfad für Downloads ändern auf "Desktop"
+* Erweiterte Einstellungen > Downloads Pfad ändern auf "Schreibtisch"
 * Developer-Tools → Settings → Devices → folgende Custom Devies anlegen
   * Laptop FullHD mit 1920x1080
   * Laptop XL mit 1520x800
