@@ -55,6 +55,7 @@
     * Wörter automatisch groß schreiben: deaktivieren
     * Punkt mit doppeltem Leerzeichen hinzufügen: deaktivieren
   * Kurzbefehle
+    * Tastatur > Fokus in nächstes Fenster: `cmd` + `<`
     * Spotlight
       * Spotlight-Suche anzeigen: deaktivieren
       * Finder-Suchfenster anzeigen: deaktivieren
