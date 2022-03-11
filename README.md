@@ -287,6 +287,19 @@ Befehle im Terminal ausführen
 * Ansichtsoptionen > Spalten > Schlagwörter deaktivieren
 * Menü Ansicht > "Notizanzahl in Seitenleiste anzeigen" aktivieren
 
+### MAMP
+
+* View Mode: Expert View
+* Settings
+  * General
+    * Keyboard Shortcut: deaktivieren
+    * Show Status in Menubar: aktivieren
+    * Dont use blue elephant: aktivieren
+  * Server
+    * Launch GroupStart Servers > when starting MAMP Pro
+* Ports & Users
+  * Button Klick: Set ports to 80, 81, …
+
 ### iTerm2 + ZSH
 
 * Theme Neu 2021: [Sindre Sorhus' Snazzy color theme.](https://github.com/sindresorhus/iterm2-snazzy)
