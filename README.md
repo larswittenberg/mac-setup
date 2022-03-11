@@ -85,7 +85,7 @@
   * Zoomen
     * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
     * Zoomstil: "Bild-in-Bild" (durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet)
-    * Zoomstil Optionen → Fensterposition: Mauszeiger folgen
+    * Zoomstil Optionen > Fensterposition: Mauszeiger folgen
   * Anzeige
     * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 
@@ -115,19 +115,19 @@
 * Erweitert
   * Alle Dateinnamemsuffixe einblenden: aktivieren
 
-Rechtsklick im Finder → Darstellungsoptionen einblenden
+Rechtsklick im Finder > Darstellungsoptionen einblenden
 
 * Sortiert nach: Art
 
-Finder Menü-Leiste → Darstellung
+Finder Menü-Leiste > Darstellung
 
 * Pfadleiste einblenden
 * Statusleiste einblenden
 
 Befehle im Terminal ausführen
 
-* Versteckte Dateien anzeigen → `defaults write com.apple.finder AppleShowAllFiles YES`
-* Library Ordner anzeigen → `chflags nohidden ~/Library`
+* Versteckte Dateien anzeigen > `defaults write com.apple.finder AppleShowAllFiles YES`
+* Library Ordner anzeigen > `chflags nohidden ~/Library`
 
 ## Basics
 
@@ -247,9 +247,9 @@ Befehle im Terminal ausführen
 ### Alfred
 
 * Alfred Hotkey `cmd` + `Space`
-* Appearance → Options → "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
+* Appearance > Options > "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
 * Eingaben für 5 Minuten behalten
-  Advanced → History → "Show latest query if within 5 minutes" aktivieren
+  Advanced > History > "Show latest query if within 5 minutes" aktivieren
 
 ### Shottr
 
@@ -267,15 +267,15 @@ Befehle im Terminal ausführen
 
 ### TextEdit
 
-* Einstellungen → Neues Dokument
+* Einstellungen > Neues Dokument
   * Format: Reiner Text
   * Schrift: Hack Regular, 16
 
 ### Chrome
 
-* Vor Beenden waren aktivieren → Menü Chrome → "Vor Beenden waren" aktivieren
+* Vor Beenden waren aktivieren > Menü Chrome > "Vor Beenden waren" aktivieren
 * Erweiterte Einstellungen > Downloads Pfad ändern auf "Schreibtisch"
-* Developer-Tools → Settings → Devices → folgende Custom Devies anlegen
+* Developer-Tools > Settings > Devices > folgende Custom Devies anlegen
   * Laptop FullHD mit 1920x1080
   * Laptop XL mit 1520x800
   * Laptop LG mit 1280x800
