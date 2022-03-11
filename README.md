@@ -240,9 +240,9 @@ Befehle im Terminal ausführen
 ### FileZilla
 
 * Servermanager Einträge importieren
-* Einstellungen → Übertragungen → Maximale Anzahl gleichzeitiger Übertragungen: 6
-* Einstellungen → Übertragungen → Dateitypen → Standard-Übertragungstyp: Binär
-* Einstellungen → Bearbeiten von Dateien → Benutzerdefinierten Editor verwednden → ```"/Applications/Visual Studio Code.app"```
+* Einstellungen > Übertragungen > Maximale Anzahl gleichzeitiger Übertragungen: 6
+* Einstellungen > Übertragungen > FTP: Dateitypen > Standard-Übertragungstyp: Binär
+* Einstellungen > Bearbeiten von Dateien > Benutzerdefinierten Editor verwednden > `"/Applications/Visual Studio Code.app"`
 
 ### Alfred
 
