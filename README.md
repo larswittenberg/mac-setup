@@ -283,10 +283,9 @@ Befehle im Terminal ausführen
 
 ### Evernote
 
-* Ansichtsoptionen → "Ansicht seitliche Leiste"
-* Einstellungen → Allgemein → "Notizanzahl in Seitenleiste anzeigen" aktivieren
-* Einstellungen → Allgemein → "Evernote-Helfer startten, wenn ich den Computer starte" aktivieren
-* Einstellungen → Formatierung → Notiztext → Helvetica Neue 13
+* Ansichtsoptionen > Notizlistenansicht "Leiste seitlich"
+* Ansichtsoptionen > Spalten > Schlagwörter deaktivieren
+* Menü Ansicht > "Notizanzahl in Seitenleiste anzeigen" aktivieren
 
 ### iTerm2 + ZSH
 
