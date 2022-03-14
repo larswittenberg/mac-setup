@@ -139,7 +139,7 @@ Befehle im Terminal ausführen
 ## Tools & Programme
 
 * Apps mit Homebrew installieren
-  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc alfred authy imageoptim iterm2 sequel-pro mamp appcleaner tower visual-studio-code github microsoft-office`
+  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc alfred authy imageoptim iterm2 sequel-ace mamp appcleaner tower visual-studio-code github microsoft-office`
 
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
@@ -160,14 +160,14 @@ Befehle im Terminal ausführen
 
 ### Nice to have~
 
-* [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+* [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Nicht mit Mac M1 Chip kompatibel!)
 * [NameChanger](https://mrrsoftware.com/namechanger/) `brew install namechanger`
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
 * [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 * [Android File Transfer](https://www.android.com/filetransfer/)
 * [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
-* [Pika - Color Picker](https://superhighfives.com/pika)
+* [Pika - Color Picker](https://superhighfives.com/pika) `brew install pika`
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 
 ### Developer Basics
@@ -209,7 +209,6 @@ Befehle im Terminal ausführen
 * NPM Check Updates
   * [https://www.npmjs.com/package/npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
   * `yarn global add npm-check-updates`
-  * Benutzung: `ncu`
 
 ### Fonts
 
