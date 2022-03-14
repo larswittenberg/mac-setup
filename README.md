@@ -156,7 +156,9 @@ Befehle im Terminal ausführen
 
 ### Hardware-spezifisch
 
-* [Logitech Options Maus-Einstellungen](http://support.logitech.com/de_de/software/options)
+* [Logitech Options App - Maus-Einstellungen](https://support.logi.com/hc/de/articles/360025297893)
+* [Logitech Options+ Beta App - Tastatur-Einstellungen](https://www.logitech.com/de-de/software/logi-options-plus.html)
+* [Logitech Logi Bolt App - Pairing-Einstellungen](https://support.logi.com/hc/de/articles/4418089333655)
 
 ### Nice to have~
 
@@ -309,3 +311,7 @@ Befehle im Terminal ausführen
 * [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
 * [iTerm2 - how to pimp yout macOS terminal](https://www.aptgetupdate.de/2017/04/12/howto-iterm2-pimp-your-macos-terminal/)
 * [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
+
+### Logitech Options+
+* Tastatur-Einstellungen
+  * F4 > Desktop anzeigen/verbergen
