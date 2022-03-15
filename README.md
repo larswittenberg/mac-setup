@@ -162,7 +162,7 @@ Befehle im Terminal ausführen
 
 ### Nice to have~
 
-* [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Nicht mit Mac M1 Chip kompatibel!)
+* [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Nicht mit Apple M1 Chip kompatibel!)
 * [NameChanger](https://mrrsoftware.com/namechanger/) `brew install namechanger`
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
