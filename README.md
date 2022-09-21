@@ -6,6 +6,7 @@
 
 * [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
 * [macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+* [Mac Setup for Web Development 2022](https://www.robinwieruch.de/mac-setup-web-development/)
 
 ## OS X Systemeinstellungen
 
