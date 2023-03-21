@@ -173,6 +173,7 @@ Befehle im Terminal ausführen
 * [Pika - Color Picker](https://superhighfives.com/pika) `brew install pika`
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 * [Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
+* [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
 
 ### Developer Basics
 
