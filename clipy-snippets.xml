@@ -4,20 +4,16 @@
 		<title>Git Commits</title>
 		<snippets>
 			<snippet>
-				<title>Update (Code-Änderungen)</title>
+				<title>Update</title>
 				<content>UPDATE: </content>
-			</snippet>
-			<snippet>
-				<title>Feature</title>
-				<content>FEATURE: </content>
 			</snippet>
 			<snippet>
 				<title>Fix (Bugfix)</title>
 				<content>FIX: </content>
 			</snippet>
 			<snippet>
-				<title>Content (Text-Änderungen)</title>
-				<content>CONTENT: </content>
+				<title>Feature</title>
+				<content>FEATURE: </content>
 			</snippet>
 			<snippet>
 				<title>WIP Feature</title>
@@ -25,19 +21,23 @@
 			</snippet>
 			<snippet>
 				<title>Build (gulp,npm)</title>
-				<content>BUILD: </content>
+				<content>BUILD: Update Dependencies</content>
+			</snippet>
+			<snippet>
+				<title>Style</title>
+				<content>STYLE: Run prettier</content>
+			</snippet>
+			<snippet>
+				<title>Content</title>
+				<content>CONTENT: </content>
 			</snippet>
 			<snippet>
 				<title>Docs (readme)</title>
-				<content>DOCS: </content>
+				<content>DOCS: Update Readme</content>
 			</snippet>
 			<snippet>
 				<title>Perf</title>
 				<content>PERF: </content>
-			</snippet>
-			<snippet>
-				<title>Style (Code-Formatierungen)</title>
-				<content>STYLE: </content>
 			</snippet>
 			<snippet>
 				<title>Test</title>
@@ -62,17 +62,18 @@
 			</snippet>
 		</snippets>
 	</folder>
-<folder>
+	<folder>
 		<title>Sonstiges</title>
 		<snippets>
 			<snippet>
 				<title>Stunden buchen</title>
-				<content>XX XX.03 - Homeoffice ✅ ⭕️
-Start: 9:00</content>
+				<content>XX XX.03. - Homeoffice ✅ ⭕️
+Start: 9:00
+0,25 Orga Troi Zeiten + Mails und Chat Nachrichten</content>
 			</snippet>
 			<snippet>
-				<title>Lorem ipsum</title>
-				<content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum est quidem, consequatur ipsum temporibus eius vero vel placeat fugit iste dolores, eligendi voluptatem perspiciatis possimus ab architecto quam dolor ea.Distinctio nihil officia veniam! Nihil suscipit earum, laudantium nemo totam velit consectetur voluptas non incidunt officia. Dolores, ex asperiores maxime ad fuga minima libero, excepturi labore assumenda ipsam atque molestiae?</content>
+				<title>Troi intern Orga+Nachrichten</title>
+				<content>Orga Troi Zeiten + Mails und Chat Nachrichten</content>
 			</snippet>
 			<snippet>
 				<title>Viele Grüße</title>
@@ -85,16 +86,53 @@ Lars Wittenberg</content>
 Lars Wittenberg</content>
 			</snippet>
 			<snippet>
-				<title>SpeedUp TimeMachine</title>
-				<content>sudo sysctl debug.lowpri_throttle_enabled=0</content>
+				<title>Mittagspause Lars Wittenberg</title>
+				<content>Mittagspause Lars Wittenberg</content>
 			</snippet>
 			<snippet>
-				<title>PHP echo &lt;br&gt;</title>
-				<content>echo &apos;&lt;br&gt;&apos;;</content>
+				<title>Homeoffice Lars Wittenberg</title>
+				<content>Homeoffice Lars Wittenberg</content>
+			</snippet>
+			<snippet>
+				<title>Adresse</title>
+				<content>XXX</content>
+			</snippet>
+			<snippet>
+				<title>cmd + shift + r</title>
+				<content>⌘ Cmd + ⇧ Shift + R</content>
+			</snippet>
+		</snippets>
+	</folder>
+	<folder>
+		<title>Code-Snippets</title>
+		<snippets>
+			<snippet>
+				<title>mui sx outline</title>
+				<content>sx={{ outline: &apos;1px solid black&apos;, }}</content>
+			</snippet>
+			<snippet>
+				<title>remove node_modules</title>
+				<content>rm -rf node_modules &amp;&amp; rm yarn.lock &amp;&amp; rm package-lock.json</content>
+			</snippet>
+			<snippet>
+				<title>Externer Link</title>
+				<content>target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;</content>
+			</snippet>
+			<snippet>
+				<title>Lorem ipsum</title>
+				<content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum est quidem, consequatur ipsum temporibus eius vero vel placeat fugit iste dolores, eligendi voluptatem perspiciatis possimus ab architecto quam dolor ea.Distinctio nihil officia veniam! Nihil suscipit earum, laudantium nemo totam velit consectetur voluptas non incidunt officia. Dolores, ex asperiores maxime ad fuga minima libero, excepturi labore assumenda ipsam atque molestiae?</content>
 			</snippet>
 			<snippet>
 				<title>yarn run Storybook</title>
 				<content>yarn run storybook</content>
+			</snippet>
+			<snippet>
+				<title>yarn upgrade Deps</title>
+				<content>yarn upgrade-interactive --latest</content>
+			</snippet>
+			<snippet>
+				<title>PHP echo &lt;br&gt;</title>
+				<content>echo &apos;&lt;br&gt;&apos;;</content>
 			</snippet>
 		</snippets>
 	</folder>
