@@ -147,28 +147,26 @@ Befehle im Terminal ausführen
 ## Tools & Programme
 
 * Apps mit Homebrew installieren
-  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc alfred authy imageoptim iterm2 sequel-ace mamp appcleaner tower visual-studio-code github microsoft-office`
+  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc authy imageoptim iterm2 sequel-ace appcleaner tower visual-studio-code github microsoft-office`
 
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
-* [Pocket App](https://itunes.apple.com/us/app/pocket/id568494494?mt=12) > App Store
 * [Trello](https://itunes.apple.com/de/app/trello/id1278508951?mt=12) > App Store
 * [Pixelmator Classic](https://itunes.apple.com/de/app/pixelmator/id407963104) > App Store
 
-* [MarkText - Markdown Editor](https://marktext.app/) `brew install mark-text`
+* [MarkEdit for Markdown - Text-Editor](https://apps.apple.com/app/id1669953820)
 * [Latest - Software Update Checker](https://max.codes/latest/) `brew install latest`
 * [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy) `brew install clipy`
 * [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
 * [Hidden Bar - Hide menu bar icons](https://github.com/dwarvesf/hidden) `brew install hiddenbar`
-* [Shottr -  Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
+* [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
 
 ### Hardware-spezifisch
 
-* [Logitech Options App - Maus-Einstellungen](https://support.logi.com/hc/de/articles/360025297893)
-* [Logitech Options+ Beta App - Tastatur-Einstellungen](https://www.logitech.com/de-de/software/logi-options-plus.html)
+* [Logitech Options+ App - Tastatur-Einstellungen](https://www.logitech.com/de-de/software/logi-options-plus.html)
 * [Logitech Logi Bolt App - Pairing-Einstellungen](https://support.logi.com/hc/de/articles/4418089333655)
 
-### Nice to have~
+### Nice to have
 
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Nicht mit Apple M1 Chip kompatibel!)
 * [NameChanger](https://mrrsoftware.com/namechanger/) `brew install namechanger`
