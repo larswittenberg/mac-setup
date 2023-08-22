@@ -8,106 +8,116 @@
 * [macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
 * [Mac Setup for Web Development 2022](https://www.robinwieruch.de/mac-setup-web-development/)
 
-## OS X Systemeinstellungen
+## macOS Systemeinstellungen
 
-* Allgemein
-  * Erscheinugnsbild: Dunkel
-  * Rollbalken einblenden: Beim scorllen
-  * Fenster beim Beenden einen Programms schließen: deaktivieren
-* Schreibtisch & Bildschirmschoner
-  * Bildschirmschoner
-    * Starten nach 5 Minuten
-    * Mit Uhr anzeigen
-  * Mögliche Bildschirmschoner
-    * Große digitale Uhrzeit [Padbury Clock](http://padbury.me/clock/)
-    * [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
-* Dock & Menüleiste
-  * **Screenshot vorhanden**
-  * Größe: eher klein
-  * Vergrößerung aktivieren
-  * Position: unten
-  * Fenster hinter Programmsymbol im Dock ablegen: aktivieren
-  * Öffnen von Programmen animieren: deaktivieren
-  * Dock automatisch ein- und ausblenden: aktivieren
-  * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
-  * Anpassungen per Terminal:
-    * Animation beim ein/ausblenden deaktivieren: `defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock`
-  * Kontrollzentrum
-    * AirDrop: In Menüleiste anzeigen: aktivieren
-    * Batterie:
-      * Im Kontrollzentrum anzeigen: aktivieren
-      * In Prozent anzeigen: aktivieren
-    * Spotlight: In Menüleiste anzeigen: deaktivieren
-    * Uhr
-      * Datumsoptionen
-        * Wochentag anzeigen: aktivieren
-        * Datum anzeigen: aktivieren
-* Sicherheit
-  * FileVault: aktivieren
-  * Firewall: aktivieren
-* Spotlight
-  * Alles deaktivieren
-  * Programme aktivieren
-* Energie sparen
-  * Zeiten einstellen
-* Tastatur
-  * Text
-    * Automatische Korrektur: deaktivieren (Rechtschreibkorrektur ausschalten)
-    * Wörter automatisch groß schreiben: deaktivieren
-    * Punkt mit doppeltem Leerzeichen hinzufügen: deaktivieren
-  * Kurzbefehle
-    * Tastatur > Fokus in nächstes Fenster: `cmd` + `<`
-    * Spotlight
-      * Spotlight-Suche anzeigen: deaktivieren
-      * Finder-Suchfenster anzeigen: deaktivieren
-    * Bewege den Fokus mittels Tastaturnavigation zu Steuerelementen: aktivieren
-* Maus
-  * Scrollrichtung Natürlich: deaktivieren
-* Trackpad
-  * Zeigen und Klicken
-    * Sekundärklick: Rechts unten klicken
-    * Klick durch Tippen: aktivieren
-    * Zeigerbewegung: Geschwindigkeit auf ~ 75% stellen
-  * Scrollen und Zoomen
-    * Scrollrichtung Natürlich: deaktivieren
-  * Weitere Gesten
-    * Mit streichen Seiten blättern: deaktivieren
-* Ton
-  * Toneffekte
-    * Beim Starten Ton abspielen: deaktivieren
-  * Ton in der Menüleiste anzeigen: immer
-* Bluetooth
-  * Bluetooth in der Menüleiste anzeigen: aktivieren
-* Freigaben
-  * Gerätenamen ändern
-* Displays
-  * Auflösung: Skaliert >> Mehr Fläche auswählen
-* Bedienungshilfen
-  * Zoomen
-    * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
-    * Zoomstil: "Bild-in-Bild" (durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet)
-    * Zoomstil Optionen > Fensterposition: Mauszeiger folgen
-  * Anzeige
-    * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
+### Netzwerk
+* Firewall: aktivieren
+
+### Ton
+* Beim Starten Ton abspielen: deaktivieren
+* Beim Ändern der Lautstärke Ton abspielen: aktivieren
+
+### Bildschirmzeit
+* aktivieren
+
+### Allgemein
+#### Info
+* Name > Gerätename anpassen
+
+### Erscheinugnsbild
+* Dunkel
+* Einfärbung des Hintergrunds in Fenstern erlauben: deaktivieren
+* Rollbalken einblenden: Beim scrollen
+
+### Bedienungshilfen
+* Zoomen
+  * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
+  * Zoomstil: "Bild-in-Bild" (durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet)
+  * Zoomstil Optionen > Fensterposition: Mauszeiger folgen
+* Anzeige
+  * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
+
+### Kontrollzentrum
+* Ton > Immer in Menüleiste anzeigen
+* Batterie
+  * In Menüleiste anzeigen: aktivieren
+  * Im Kontrollzentrum anzeigen: aktivieren
+  * Prozent anzeigen: aktivieren
+* Alles weitere nach Badarf
+
+### Siri & Spotlight
+* Spotlight > Suchergebnisse > Alles deaktivieren
+
+### Datenschutz & Sicherheit
+* FileVault: aktivieren
+
+### Schreibtisch & Dock
+* **Screenshot vorhanden**
+* Größe: eher klein
+* Vergrößerung aktivieren
+* Position: unten
+* Fenster hinter Programmsymbol im Dock ablegen: aktivieren
+* Dock automatisch ein- und ausblenden: aktivieren
+* Öffnen von Programmen animieren: deaktivieren 
+* Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
+* Fenster beim Beenden einer App schließen: deaktivieren
+* Aktive Ecken > alles deaktiviren
+
+### Displays
+* Auflösung: Skaliert > Mehr Fläche auswählen
+
+### Hintergrundbild
+* nach Bedarf anpassen
+
+### Bildschirmschoner
+* nach Bedarf anpassen
+
+### Batterie
+* Stromsparmodus > Nur im Batteriebetrieb
+
+### Sperrbildschirm
+* Zeiten für Bildschirmschoner und Display abdunkeln nach Bedarf einstellen
+* Merkhilfe für Passwörter anzeigen: aktivieren
+
+...
+
+### Tastatur
+* Tastaturnavigation: aktivieren
+* Kurzbefehle
+  * Tastatur > Fokus in nächstes Fenster: `cmd` + `<`
+  * Spotlight
+    * Spotlight-Suche anzeigen: deaktivieren
+    * Finder-Suchfenster anzeigen: deaktivieren
+* Texteingabe > Eingabequellen bearbeiten
+  * Rechtschreibung automatische Korrektur: deaktivieren
+  * Wörter automatisch groß schreiben: deaktivieren
+  * Punkt mit doppeltem Leerzeichen hinzufügen: deaktivieren
+
+
+### Trackpad
+* Zeigen und Klicken
+  * Zeigerbewegung: Geschwindigkeit auf ~ 75% stellen
+  * Sekundärklick: Mit zwei Fingern klicken oder tippen
+  * Klick durch Tippen: aktivieren
+* Scrollen und Zoomen > Alles aktivieren
+* Weitere Gesten
+  * App-Exposè: Mit drei Fingern abwärts streichen
+
 
 ## Dock
-
 * Unwichtige Apps raus löschen (aus dem Doc entfernen)
 * Übrig bleibt nur:
   * Finder
-  * Launchpad
   * Systemeinstellungen
   * Safari
-  * Terminal
+
 
 ## Finder
-
 * Allgemein
   * Diese Objekte auf dem Schreibtisch anzeigen: Alles deaktivieren
   * Neue Finder-Fenster zeigen: Schreibtisch
 * Seitenleiste
   * Objekte zusätzlich aktivieren:
-    * Bilder
     * [Benutzername]
     * [Gerät]
     * Festplatten
@@ -117,16 +127,13 @@
   * Alle Dateinnamemsuffixe einblenden: aktivieren
 
 Rechtsklick im Finder > Darstellungsoptionen einblenden
-
 * Sortiert nach: Art
 
 Finder Menü-Leiste > Darstellung
-
 * Pfadleiste einblenden
 * Statusleiste einblenden
 
 Befehle im Terminal ausführen
-
 * Versteckte Dateien anzeigen > `defaults write com.apple.finder AppleShowAllFiles YES`
 * Library Ordner anzeigen > `chflags nohidden ~/Library`
 
