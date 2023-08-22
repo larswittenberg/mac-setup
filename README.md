@@ -160,6 +160,7 @@ Befehle im Terminal ausführen
 * [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
 * [Hidden Bar - Hide menu bar icons](https://github.com/dwarvesf/hidden) `brew install hiddenbar`
 * [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
+* [Google One VPN](https://one.google.com/about/vpn?hl=de)
 
 ### Hardware-spezifisch
 
@@ -271,6 +272,7 @@ Befehle im Terminal ausführen
 * Zwischenablageverlauf
   * Maximal 50 Einträge
 * Tastenkombinationen > Standardeinstellungen übernehmen
+* Snippets können aus bestehendem Setup exportiert und neu importiert werden
 
 ### TextEdit
 
@@ -287,6 +289,10 @@ Befehle im Terminal ausführen
   * Laptop XL mit 1520x800
   * Laptop LG mit 1280x800
   * Laptop MD mit 1024x768
+
+### Raycast
+
+* Settings können aus bestehendem Setup exportiert und neu importiert werden
 
 ### Evernote
 
