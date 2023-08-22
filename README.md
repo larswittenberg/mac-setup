@@ -251,26 +251,26 @@ Befehle im Terminal ausführen
 * Einstellungen > Übertragungen > FTP: Dateitypen > Standard-Übertragungstyp: Binär
 * Einstellungen > Bearbeiten von Dateien > Benutzerdefinierten Editor verwednden > `"/Applications/Visual Studio Code.app"`
 
-### Alfred
-
-* Alfred Hotkey `cmd` + `Space`
-* Appearance > Options > "Hide hat on Alfred window" + "Hide menu bar icon" aktivieren
-* Eingaben für 5 Minuten behalten
-  Advanced > History > "Show latest query if within 5 minutes" aktivieren
-
 ### Shottr
 
+* General
+  * Window Screenshot Background > Solid Color (#404448)
+  * Screenshot folder: Desktop
+  * Resize retina screenshots: deaktivieren
+  * Post screenshot: Show & Copy aktivieren
+  * After Area Crop, show: Thumbnail
 * Hotkeys
-  * Area screenshot > `cmd` + `Shift` + `4`
-  * Active window screenshot > `cmd` + `Shift` + `5`
+  * Area screenshot: `cmd` + `Shift` + `4`
+  * Active window screenshot: `cmd` + `Shift` + `5`
+  * Instant Text/OR Recognition: löschen
 * Advanced
-  * Action when hiding with ESC > Copy Image & Save Image
+  * Action when hiding with ESC: Copy Image & Save Image aktivieren
 
 ### Clipy
 
 * Zwischenablageverlauf
   * Maximal 50 Einträge
-* Tastenkombinationen > Standardeinstellungen passen
+* Tastenkombinationen > Standardeinstellungen übernehmen
 
 ### TextEdit
 
@@ -293,6 +293,11 @@ Befehle im Terminal ausführen
 * Ansichtsoptionen > Notizlistenansicht "Leiste seitlich"
 * Ansichtsoptionen > Spalten > Schlagwörter deaktivieren
 * Menü Ansicht > "Notizanzahl in Seitenleiste anzeigen" aktivieren
+
+### Logitech Options+
+
+* Tastatur-Einstellungen
+  * F4 > Desktop anzeigen/verbergen
 
 ### MAMP
 
@@ -318,6 +323,4 @@ Befehle im Terminal ausführen
 * [iTerm2 - how to pimp yout macOS terminal](https://www.aptgetupdate.de/2017/04/12/howto-iterm2-pimp-your-macos-terminal/)
 * [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
 
-### Logitech Options+
-* Tastatur-Einstellungen
-  * F4 > Desktop anzeigen/verbergen
+
