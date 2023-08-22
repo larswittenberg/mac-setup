@@ -271,6 +271,7 @@ Befehle im Terminal ausführen
 * Zwischenablageverlauf
   * Maximal 50 Einträge
 * Tastenkombinationen > Standardeinstellungen übernehmen
+* Snippets können aus bestehendem Setup exportiert und neu importiert werden
 
 ### TextEdit
 
@@ -287,6 +288,10 @@ Befehle im Terminal ausführen
   * Laptop XL mit 1520x800
   * Laptop LG mit 1280x800
   * Laptop MD mit 1024x768
+
+### Raycast
+
+* Settings können aus bestehendem Setup exportiert und neu importiert werden
 
 ### Evernote
 
