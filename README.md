@@ -160,6 +160,7 @@ Befehle im Terminal ausführen
 * [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
 * [Hidden Bar - Hide menu bar icons](https://github.com/dwarvesf/hidden) `brew install hiddenbar`
 * [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
+* [Google One VPN](https://one.google.com/about/vpn?hl=de)
 
 ### Hardware-spezifisch
 
