@@ -180,20 +180,6 @@ Befehle im Terminal ausführen
 * [Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
 * [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
 
-### Developer Basics
-
-* Ab macOS Catalina ist [zsh](https://www.zsh.org/) die Standard Shell
-* [Oh-My-Zsh](http://ohmyz.sh/)
-  * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-  * Weitere Einstellungen im Abschnitt ganz unten
-  * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
-* Node via [NVM - Node Version Manager](https://github.com/nvm-sh/nvm)
-  * Installation via curl `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
-  * Install the latest version with `nvm install node`
-  * Install the latest LTS version with `nvm install --lts`
-  * [nvm is broken after I installing oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/issues/5543)
-* `brew install yarn`
-
 ### Chrome Erweiterungen
 
 * [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
@@ -206,7 +192,24 @@ Befehle im Terminal ausführen
 * Evernote Web Clipper
 * AdBlock
 
-## Weitere Einstellungen
+### MacOS Quick Look (Datei Vorschau) erweitern
+
+* ~~[All-in-one Quick Look plugin](https://github.com/samuelmeuli/glance)~~
+
+## Developer Setup
+
+### Basics
+* Ab macOS Catalina ist [zsh](https://www.zsh.org/) die Standard Shell
+* [Oh-My-Zsh](http://ohmyz.sh/)
+  * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+  * Weitere Einstellungen im Abschnitt ganz unten
+  * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+* Node via [NVM - Node Version Manager](https://github.com/nvm-sh/nvm)
+  * Installation via curl `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
+  * Install the latest version with `nvm install node`
+  * Install the latest LTS version with `nvm install --lts`
+  * [nvm is broken after I installing oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/issues/5543)
+* `brew install yarn`
 
 ### NPM Installationen
 
@@ -229,11 +232,6 @@ Befehle im Terminal ausführen
 
 * [Anleitung Github](https://help.github.com/articles/generating-ssh-keys/)
 * [Anleitung Bitbucket](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)
-
-### MacOS Quick Look (Datei Vorschau) erweitern
-
-* [All-in-one Quick Look plugin](https://github.com/samuelmeuli/glance)
-  * Glance provides Quick Look previews for files that macOS doesn't support out of the box.
 
 ### Websites Ordner erstellen
 
