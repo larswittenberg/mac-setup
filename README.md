@@ -180,6 +180,7 @@ Befehle im Terminal ausführen
 * [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
 * [Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
 * [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
+* [Bildschirmschoner Flip Clock](https://fliqlo.com/screensaver/)
 
 ### Chrome Erweiterungen
 
