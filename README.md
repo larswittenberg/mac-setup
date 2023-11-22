@@ -58,7 +58,7 @@
 * Position: unten
 * Fenster hinter Programmsymbol im Dock ablegen: aktivieren
 * Dock automatisch ein- und ausblenden: aktivieren
-* Öffnen von Programmen animieren: deaktivieren 
+* Öffnen von Programmen animieren: deaktivieren
 * Zuletzt verwendete Programme im Dock anzeigen: deaktivieren
 * Fenster beim Beenden einer App schließen: deaktivieren
 * Aktive Ecken > alles deaktiviren
@@ -181,6 +181,7 @@ Befehle im Terminal ausführen
 * [Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
 * [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
 * [Bildschirmschoner Flip Clock](https://fliqlo.com/screensaver/)
+* [NearDrop - An unofficial Google Nearby Share app for macOS (AirDrop Klon)](https://github.com/grishka/NearDrop)
 
 ### Chrome Erweiterungen
 
