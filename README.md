@@ -147,20 +147,17 @@ Befehle im Terminal ausführen
 ## Tools & Programme
 
 * Apps mit Homebrew installieren
-  * `brew install google-chrome firefox evernote dropbox spotify the-unarchiver vlc authy imageoptim iterm2 sequel-ace appcleaner tower visual-studio-code github microsoft-office`
+  * `brew install google-chrome firefox evernote the-unarchiver vlc imageoptim iterm2 sequel-ace appcleaner tower visual-studio-code github microsoft-office`
 
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
-* [Trello](https://itunes.apple.com/de/app/trello/id1278508951?mt=12) > App Store
-* [Pixelmator Classic](https://itunes.apple.com/de/app/pixelmator/id407963104) > App Store
-
-* [MarkEdit for Markdown - Text-Editor](https://apps.apple.com/app/id1669953820)
+* [MarkEdit for Markdown - Markdown-Editor](https://apps.apple.com/app/id1669953820)
+* [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
+* [Maccy - Clipboard manager for macOS](https://maccy.app/) `brew install maccy`
 * [Latest - Software Update Checker](https://max.codes/latest/) `brew install latest`
-* [Clipy - Clipboard extension app for macOS](https://github.com/Clipy/Clipy) `brew install clipy`
 * [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
 * [Hidden Bar - Hide menu bar icons](https://github.com/dwarvesf/hidden) `brew install hiddenbar`
 * [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
-* [Google One VPN](https://one.google.com/about/vpn?hl=de)
 
 ### Hardware-spezifisch
 
@@ -268,13 +265,6 @@ Befehle im Terminal ausführen
   * Instant Text/OR Recognition: löschen
 * Advanced
   * Action when hiding with ESC: Copy Image & Save Image aktivieren
-
-### Clipy
-
-* Zwischenablageverlauf
-  * Maximal 50 Einträge
-* Tastenkombinationen > Standardeinstellungen übernehmen
-* Snippets können aus bestehendem Setup exportiert und neu importiert werden
 
 ### TextEdit
 
