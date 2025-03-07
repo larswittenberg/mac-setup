@@ -147,7 +147,7 @@ Befehle im Terminal ausführen
 ## Tools & Programme
 
 * Apps mit Homebrew installieren
-  * `brew install google-chrome firefox evernote the-unarchiver vlc imageoptim iterm2 sequel-ace appcleaner tower visual-studio-code github microsoft-office`
+  * `brew install google-chrome firefox the-unarchiver vlc imageoptim iterm2 sequel-ace appcleaner tower visual-studio-code github microsoft-office`
 
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
@@ -283,12 +283,6 @@ Befehle im Terminal ausführen
 ### Raycast
 
 * Settings können aus bestehendem Setup exportiert und neu importiert werden
-
-### Evernote
-
-* Ansichtsoptionen > Notizlistenansicht "Leiste seitlich"
-* Ansichtsoptionen > Spalten > Schlagwörter deaktivieren
-* Menü Ansicht > "Notizanzahl in Seitenleiste anzeigen" aktivieren
 
 ### Logitech Options+
 
