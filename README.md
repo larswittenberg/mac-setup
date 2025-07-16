@@ -11,27 +11,32 @@
 ## macOS Systemeinstellungen
 
 ### Netzwerk
+
 * Firewall: aktivieren
 
 ### Allgemein
+
 #### Info
+
 * Name > Gerätename anpassen
 
 ### Bedienungshilfen
+
 * Zoomen
   * Tastaturkurzbefehle zum Zoomen verwenden: aktivieren
   * Zoomstil: "Bild-in-Bild" (durch die Tastenkombination CTRL + ALT wird eine Lupe eingeblendet)
   * Zoomstil Optionen > Fensterposition: Mauszeiger folgen
 * Anzeige
-  * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
-
+  * Transparenz reduzieren: aktivieren | [OSX Daily Artikel](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 
 ### Erscheinugnsbild
+
 * Dunkel
 * Einfärbung des Hintergrunds in Fenstern erlauben: deaktivieren
 * Rollbalken einblenden: Beim scrollen
 
 ### Kontrollzentrum
+
 * Ton > Immer in Menüleiste anzeigen
 * Batterie
   * In Menüleiste anzeigen: aktivieren
@@ -40,16 +45,20 @@
 * Alles weitere nach Badarf
 
 ### Ton
+
 * Beim Starten Ton abspielen: deaktivieren
 * Beim Ändern der Lautstärke Ton abspielen: aktivieren
 
 ### Bildschirmzeit
+
 * aktivieren
 
 ### Spotlight
+
 * Spotlight > Suchergebnisse > Alles deaktivieren
 
 ### Datenschutz & Sicherheit
+
 * FileVault: aktivieren
 
 ### Schreibtisch & Dock
@@ -66,18 +75,23 @@
 * Aktive Ecken > alles deaktiviren
 
 ### Displays
+
 * Auflösung: Skaliert > Mehr Fläche auswählen
 
 ### Hintergrundbild
+
 * nach Bedarf anpassen
 
 ### Bildschirmschoner
+
 * nach Bedarf anpassen
 
 ### Batterie
+
 * Stromsparmodus > Nur im Batteriebetrieb
 
 ### Sperrbildschirm
+
 * Zeiten für Bildschirmschoner und Display abdunkeln nach Bedarf einstellen
 * Merkhilfe für Passwörter anzeigen: aktivieren
 
@@ -140,7 +154,7 @@
   * Versteckte Dateien anzeigen > `defaults write com.apple.finder AppleShowAllFiles YES`
   * Library Ordner anzeigen > `chflags nohidden ~/Library`
 
-## Basics
+## Homebrew
 
 * [Homebrew](https://brew.sh/) installieren (der Paketmanager für macOS)
   * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
