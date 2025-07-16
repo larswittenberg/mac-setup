@@ -13,21 +13,9 @@
 ### Netzwerk
 * Firewall: aktivieren
 
-### Ton
-* Beim Starten Ton abspielen: deaktivieren
-* Beim Ändern der Lautstärke Ton abspielen: aktivieren
-
-### Bildschirmzeit
-* aktivieren
-
 ### Allgemein
 #### Info
 * Name > Gerätename anpassen
-
-### Erscheinugnsbild
-* Dunkel
-* Einfärbung des Hintergrunds in Fenstern erlauben: deaktivieren
-* Rollbalken einblenden: Beim scrollen
 
 ### Bedienungshilfen
 * Zoomen
@@ -37,6 +25,12 @@
 * Anzeige
   * Transparenz reduzieren: aktivieren | [Link](http://osxdaily.com/2016/01/02/disable-transparency-effects-mac-os-x/)
 
+
+### Erscheinugnsbild
+* Dunkel
+* Einfärbung des Hintergrunds in Fenstern erlauben: deaktivieren
+* Rollbalken einblenden: Beim scrollen
+
 ### Kontrollzentrum
 * Ton > Immer in Menüleiste anzeigen
 * Batterie
@@ -45,13 +39,21 @@
   * Prozent anzeigen: aktivieren
 * Alles weitere nach Badarf
 
-### Siri & Spotlight
+### Ton
+* Beim Starten Ton abspielen: deaktivieren
+* Beim Ändern der Lautstärke Ton abspielen: aktivieren
+
+### Bildschirmzeit
+* aktivieren
+
+### Spotlight
 * Spotlight > Suchergebnisse > Alles deaktivieren
 
 ### Datenschutz & Sicherheit
 * FileVault: aktivieren
 
 ### Schreibtisch & Dock
+
 * **Screenshot vorhanden**
 * Größe: eher klein
 * Vergrößerung aktivieren
@@ -82,6 +84,7 @@
 ...
 
 ### Tastatur
+
 * Tastaturnavigation: aktivieren
 * Kurzbefehle
   * Tastatur > Fokus in nächstes Fenster: `cmd` + `<`
@@ -93,26 +96,28 @@
   * Wörter automatisch groß schreiben: deaktivieren
   * Punkt mit doppeltem Leerzeichen hinzufügen: deaktivieren
 
-
 ### Trackpad
+
 * Zeigen und Klicken
-  * Zeigerbewegung: Geschwindigkeit auf ~ 75% stellen
+  * Zeigerbewegung: Geschwindigkeit auf ~ 90% stellen
   * Sekundärklick: Mit zwei Fingern klicken oder tippen
   * Klick durch Tippen: aktivieren
 * Scrollen und Zoomen > Alles aktivieren
 * Weitere Gesten
   * App-Exposè: Mit drei Fingern abwärts streichen
 
-
 ## Dock
+
 * Unwichtige Apps raus löschen (aus dem Doc entfernen)
 * Übrig bleibt nur:
   * Finder
   * Systemeinstellungen
   * Safari
 
-
 ## Finder
+
+### Einstellungen
+
 * Allgemein
   * Diese Objekte auf dem Schreibtisch anzeigen: Alles deaktivieren
   * Neue Finder-Fenster zeigen: Schreibtisch
@@ -126,68 +131,71 @@
 * Erweitert
   * Alle Dateinnamemsuffixe einblenden: aktivieren
 
-Rechtsklick im Finder > Darstellungsoptionen einblenden
-* Sortiert nach: Art
+### Weitere Anpassungen
 
-Finder Menü-Leiste > Darstellung
-* Pfadleiste einblenden
-* Statusleiste einblenden
-
-Befehle im Terminal ausführen
-* Versteckte Dateien anzeigen > `defaults write com.apple.finder AppleShowAllFiles YES`
-* Library Ordner anzeigen > `chflags nohidden ~/Library`
+* Rechtsklick im Finder > Darstellungsoptionen einblenden > Sortiert nach: Art
+* Finder Menü-Leiste > Darstellung > Pfadleiste einblenden
+* Finder Menü-Leiste > Darstellung > Statusleiste einblenden
+* Befehle im Terminal ausführen
+  * Versteckte Dateien anzeigen > `defaults write com.apple.finder AppleShowAllFiles YES`
+  * Library Ordner anzeigen > `chflags nohidden ~/Library`
 
 ## Basics
 
-* Homebrew installieren
+* [Homebrew](https://brew.sh/) installieren (der Paketmanager für macOS)
   * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-  * Next steps am Ende beachten // PATH anpassen [Link mit Infos](https://sourabhbajaj.com/mac-setup/Homebrew/)
+  * 🛑 Next steps am Ende der Installtion im Terminal beachten 🛑 // PATH anpassen [Link mit Infos](https://sourabhbajaj.com/mac-setup/Homebrew/)
   * Checkup mit `brew update` und `brew doctor`
 
 ## Tools & Programme
 
-* Apps mit Homebrew installieren
-  * `brew install google-chrome firefox the-unarchiver vlc imageoptim iterm2 sequel-ace appcleaner tower visual-studio-code github microsoft-office`
+* Apps mit Homebrew installieren: `brew install google-chrome firefox the-unarchiver vlc iterm2 appcleaner`
+
+* [Raycast](https://raycast.com/) `brew install raycast`
+* [MarkEdit for Markdown - Markdown-Editor](https://apps.apple.com/app/id1669953820) `brew install markedit`
+* [Maccy - Clipboard manager for macOS](https://maccy.app/) `brew install maccy`
+* [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
+* [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
+
+### Nice to have
+
+* [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
+* [Latest - Software Update Checker](https://max.codes/latest/) `brew install latest`
+* [NameChanger](https://mrrsoftware.com/namechanger/) `brew install namechanger`
+* [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
+* [Bildschirmschoner Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
+* [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
+* [NearDrop - An unofficial Google Nearby Share app for macOS (AirDrop Klon)](https://github.com/grishka/NearDrop)
+
+### Nice to have - Developer Tools
+
+* Apps mit Homebrew installieren: `brew install imageoptim sequel-ace tower visual-studio-code github microsoft-office`
 
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
-* [MarkEdit for Markdown - Markdown-Editor](https://apps.apple.com/app/id1669953820)
-* [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
-* [Maccy - Clipboard manager for macOS](https://maccy.app/) `brew install maccy`
-* [Latest - Software Update Checker](https://max.codes/latest/) `brew install latest`
-* [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
-* [Hidden Bar - Hide menu bar icons](https://github.com/dwarvesf/hidden) `brew install hiddenbar`
-* [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
+* [Pika - Color Picker](https://superhighfives.com/pika) `brew install pika`
+* [Android File Transfer](https://www.android.com/filetransfer/)
+* [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Nicht mit Apple Silicon Chip kompatibel!)
+
+### Nice to have - Media Tools
+
+* [Miro Video Converter](http://www.mirovideoconverter.com/)
+* [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
+* [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
 
 ### Hardware-spezifisch
 
 * [Logitech Options+ App - Tastatur-Einstellungen](https://www.logitech.com/de-de/software/logi-options-plus.html)
 * [Logitech Logi Bolt App - Pairing-Einstellungen](https://support.logi.com/hc/de/articles/4418089333655)
 
-### Nice to have
-
-* [Virtual Box](https://www.virtualbox.org/wiki/Downloads) (Nicht mit Apple M1 Chip kompatibel!)
-* [NameChanger](https://mrrsoftware.com/namechanger/) `brew install namechanger`
-* [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
-* [Miro Video Converter](http://www.mirovideoconverter.com/)
-* [LosslessCut - Simple, cross platform video editor](https://github.com/mifi/lossless-cut)
-* [Android File Transfer](https://www.android.com/filetransfer/)
-* [MemoryClean](https://itunes.apple.com/de/app/memory-clean-monitor-free/id451444120)
-* [Pika - Color Picker](https://superhighfives.com/pika) `brew install pika`
-* [Free Video Converter](https://itunes.apple.com/de/app/free-video-converter/id464195348?mt=12)
-* [Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
-* [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
-* [Bildschirmschoner Flip Clock](https://fliqlo.com/screensaver/)
-* [NearDrop - An unofficial Google Nearby Share app for macOS (AirDrop Klon)](https://github.com/grishka/NearDrop)
-
 ### Chrome Erweiterungen
 
-* [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 * [Google Übersetzer](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [RainDrop.io - Bookmark Manager](https://chromewebstore.google.com/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
 * AdBlock
 
 ### MacOS Quick Look (Datei Vorschau) erweitern
@@ -197,11 +205,12 @@ Befehle im Terminal ausführen
 ## Developer Setup
 
 ### Basics
+
 * Ab macOS Catalina ist [zsh](https://www.zsh.org/) die Standard Shell
 * [Oh-My-Zsh](http://ohmyz.sh/)
   * Installation via curl `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
   * Weitere Einstellungen im Abschnitt ganz unten
-  * Weitere Details & Infos [Link](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+  * [Weitere Details & Infos](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 * Node via [NVM - Node Version Manager](https://github.com/nvm-sh/nvm)
   * Installation via curl `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
   * Install the latest version with `nvm install node`
@@ -224,7 +233,6 @@ Befehle im Terminal ausführen
 ### Fonts
 
 * [Hack | A typeface designed for source code / Patched fonts for Powerline users.](https://github.com/powerline/fonts/tree/master/Hack)
-* wegmeister Hausschrift installieren
 
 ### Git SSH Keys erstellen
 
@@ -242,33 +250,33 @@ Befehle im Terminal ausführen
 
 ## Programm Einstellungen
 
-### FileZilla
-
-* Servermanager Einträge importieren
-* Einstellungen > Übertragungen > Maximale Anzahl gleichzeitiger Übertragungen: 6
-* Einstellungen > Übertragungen > FTP: Dateitypen > Standard-Übertragungstyp: Binär
-* Einstellungen > Bearbeiten von Dateien > Benutzerdefinierten Editor verwednden > `"/Applications/Visual Studio Code.app"`
-
 ### Shottr
 
 * General
   * Window Screenshot Background > Solid Color (#404448)
   * Screenshot folder: Desktop
   * Resize retina screenshots: deaktivieren
-  * Post screenshot: Show & Copy aktivieren
+  * Autostart: Launch at startup: aktivieren
+  * After screenshot: Show & Copy: aktivieren
   * After Area Crop, show: Thumbnail
 * Hotkeys
+  * Full screenshot: `cmd` + `Shift` + `3`
   * Area screenshot: `cmd` + `Shift` + `4`
   * Active window screenshot: `cmd` + `Shift` + `5`
-  * Instant Text/OR Recognition: löschen
+  * Instant Text/OR Recognition: `cmd` + `Shift` + `O`
 * Advanced
-  * Action when hiding with ESC: Copy Image & Save Image aktivieren
+  * Primary OCR Language: German
+  * OCR line breaks: aktivieren
+  * Action when hiding with ESC: Copy Image & Save Image: aktivieren
+  * Confirmation style: none
+* License
+  * License Key: [Hier Lizenz eingeben]
 
 ### TextEdit
 
 * Einstellungen > Neues Dokument
   * Format: Reiner Text
-  * Schrift: Hack Regular, 16
+  * Schrift: Menlo Regular, 18
 
 ### Chrome
 
@@ -284,10 +292,47 @@ Befehle im Terminal ausführen
 
 * Settings können aus bestehendem Setup exportiert und neu importiert werden
 
+### Tiles
+
+* General > Startup: Launch Tiles at login: aktivieren
+
+### Maccy
+
+* Beim Anmelden starten: aktivieren
+* Automatisch nach Updates suchen: aktivieren
+* Öffnen mit: `cmd` + `Shift` + `V`
+* Verhalten: Automatisch einfügen: aktivieren
+* Verhalten: Einfügen ohne Formatierung: aktivieren
+* Speicher > Sichern: Dateien: deaktivieren
+* Erscheinungsbild > Anwendungssymbole anzeigen: aktivieren
+
+### MarkEdit
+
+* Assistant > Format Files: Insert final newline: aktivieren
+* Assistant > Format Files: Trim trailing whitespace: aktivieren
+
 ### Logitech Options+
 
 * Tastatur-Einstellungen
   * F4 > Desktop anzeigen/verbergen
+
+### iTerm2 + ZSH
+
+* Theme Neu 2021: [Sindre Sorhus' Snazzy color theme.](https://github.com/sindresorhus/iterm2-snazzy)
+* Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
+  * Powerline Schritt übersprungen
+  * Patched Hack Font Download siehe oben
+* [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
+* [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
+* [iTerm2 - how to pimp yout macOS terminal](https://www.aptgetupdate.de/2017/04/12/howto-iterm2-pimp-your-macos-terminal/)
+* [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
+
+### FileZilla
+
+* Servermanager Einträge importieren
+* Einstellungen > Übertragungen > Maximale Anzahl gleichzeitiger Übertragungen: 6
+* Einstellungen > Übertragungen > FTP: Dateitypen > Standard-Übertragungstyp: Binär
+* Einstellungen > Bearbeiten von Dateien > Benutzerdefinierten Editor verwednden > `"/Applications/Visual Studio Code.app"`
 
 ### MAMP
 
@@ -301,16 +346,3 @@ Befehle im Terminal ausführen
     * Launch GroupStart Servers > when starting MAMP Pro
 * Ports & Users
   * Button Klick: Set ports to 80, 81, …
-
-### iTerm2 + ZSH
-
-* Theme Neu 2021: [Sindre Sorhus' Snazzy color theme.](https://github.com/sindresorhus/iterm2-snazzy)
-* Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
-  * Powerline Schritt übersprungen
-  * Patched Hack Font Download siehe oben
-* [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
-* [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
-* [iTerm2 - how to pimp yout macOS terminal](https://www.aptgetupdate.de/2017/04/12/howto-iterm2-pimp-your-macos-terminal/)
-* [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
-
-
