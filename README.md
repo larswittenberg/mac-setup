@@ -147,6 +147,16 @@
 
 ### Weitere Anpassungen
 
+* Favoritenleiste Reihenfolge anpassen:
+  * Schreibtisch
+  * Zuletzt benutzt
+  * AirDrop
+  * Programme
+  * Benutzerordner
+  * Dokumente
+  * Bilder
+  * Sites
+  * Downloads
 * Rechtsklick im Finder > Darstellungsoptionen einblenden > Sortiert nach: Art
 * Finder Menü-Leiste > Darstellung > Pfadleiste einblenden
 * Finder Menü-Leiste > Darstellung > Statusleiste einblenden
@@ -166,14 +176,21 @@
 * Apps mit Homebrew installieren: `brew install google-chrome firefox the-unarchiver vlc iterm2 appcleaner`
 
 * [Raycast](https://raycast.com/) `brew install raycast`
+* [BitWarden - Passwort-Manager macOS App](https://bitwarden.com/download/) `brew install bitwarden`
 * [MarkEdit for Markdown - Markdown-Editor](https://apps.apple.com/app/id1669953820) `brew install markedit`
 * [Maccy - Clipboard manager for macOS](https://maccy.app/) `brew install maccy`
 * [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
 * [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
+* [RainDrop.io - Bookmark Manager](https://raindrop.io/download)
+
+### Tools & Programme - Direkt im App Store unter Account zu finden
+
+* [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
+* [Dropover - Drag & Drop Tool](https://apps.apple.com/de/app/dropover-m%C3%BChelose-drag-drop/id1355679052?mt=12)
+* [Rocket Typist](https://apps.apple.com/de/app/rocket-typist/id6463636684)
 
 ### Nice to have
 
-* [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
 * [Latest - Software Update Checker](https://max.codes/latest/) `brew install latest`
 * [NameChanger](https://mrrsoftware.com/namechanger/) `brew install namechanger`
 * [Gemini 2 - Der intelligente Duplikatscanner](https://macpaw.com/de/gemini)
@@ -185,6 +202,7 @@
 
 * Apps mit Homebrew installieren: `brew install imageoptim sequel-ace tower visual-studio-code github microsoft-office`
 
+* [SnippetsLab - Snippet Manager](https://apps.apple.com/de/app/snippetslab/id1006087419?mt=12)
 * [Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Pika - Color Picker](https://superhighfives.com/pika) `brew install pika`
@@ -285,6 +303,15 @@
   * Confirmation style: none
 * License
   * License Key: [Hier Lizenz eingeben]
+
+### Rocket Typist
+
+* Allgemein > Automatisch nach Login starten: aktivieren
+* Allgemein > Baustein-Tastaturkürzel: `cmd` + `Shift` + `B`
+
+### SnippetsLab
+
+* Sync > iCloud Sync: aktivieren
 
 ### TextEdit
 
