@@ -1,4 +1,4 @@
-# Mein OS X Setup
+# Mein macOS Setup
 
 ---
 
