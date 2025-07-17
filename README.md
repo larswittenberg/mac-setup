@@ -182,12 +182,22 @@
 * [Tiles - The window manager for macOS](https://www.sempliva.com/tiles/) `brew install tiles`
 * [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
 * [RainDrop.io - Bookmark Manager](https://raindrop.io/download)
+* [Chat GPT](https://openai.com/de-DE/chatgpt/download/)
 
 ### Tools & Programme - Direkt im App Store unter Account zu finden
 
 * [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
 * [Dropover - Drag & Drop Tool](https://apps.apple.com/de/app/dropover-m%C3%BChelose-drag-drop/id1355679052?mt=12)
 * [Rocket Typist](https://apps.apple.com/de/app/rocket-typist/id6463636684)
+
+### Google Apps / Websites als App installieren
+
+* GMail
+* Kalender
+* Drive
+* Tasks
+* Keep (Notizen)
+* Gemini
 
 ### Nice to have
 
