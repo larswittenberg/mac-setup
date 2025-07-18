@@ -234,6 +234,7 @@
 
 * [Logitech Options+ App - Tastatur-Einstellungen](https://www.logitech.com/de-de/software/logi-options-plus.html)
 * [Logitech Logi Bolt App - Pairing-Einstellungen](https://support.logi.com/hc/de/articles/4418089333655)
+* [Elgato Stream Deck](https://www.elgato.com/de/de/s/downloads)
 
 ### Chrome Erweiterungen
 
