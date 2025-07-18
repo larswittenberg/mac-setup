@@ -183,6 +183,7 @@
 * [Shottr - Screenshot Tool mit Scrollshot](https://shottr.cc/) `brew install shottr`
 * [RainDrop.io - Bookmark Manager](https://raindrop.io/download)
 * [Chat GPT](https://openai.com/de-DE/chatgpt/download/)
+* [7-Zip - Datei Archivierung](https://7-zip.org/) `brew install sevenzip`
 
 ### Tools & Programme - Direkt im App Store unter Account zu finden
 
@@ -197,6 +198,8 @@
 * Drive
 * Tasks
 * Keep (Notizen)
+* Youtube Music
+* Youtube
 * Gemini
 
 ### Nice to have
@@ -207,6 +210,8 @@
 * [Bildschirmschoner Fliqlo - Flip clock screensaver](https://fliqlo.com/screensaver/)
 * [SquirrelDisk - Speicherplatzanalyse](https://github.com/adileo/squirreldisk)
 * [NearDrop - An unofficial Google Nearby Share app for macOS (AirDrop Klon)](https://github.com/grishka/NearDrop)
+* [AppLite- Make managing third party applications](https://aerolite.dev/applite)
+* [Cakebrew - The Mac App for Homebrew](https://www.cakebrew.com/)
 
 ### Nice to have - Developer Tools
 
@@ -342,6 +347,7 @@
 ### Raycast
 
 * Settings können aus bestehendem Setup exportiert und neu importiert werden
+* Für den Hyperkey (Settings > Advanced) muss in den macOS Systemeinstellungen > Datenschutz & Sicherheit > Bedienungshilfen > Raycast aktiviert werden
 
 ### Tiles
 
