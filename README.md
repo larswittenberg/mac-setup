@@ -118,6 +118,7 @@
   * Klick durch Tippen: aktivieren
 * Scrollen und Zoomen > Alles aktivieren
 * Weitere Gesten
+  * Mission Control: Mit drei Fingern aufwärts streichen
   * App-Exposè: Mit drei Fingern abwärts streichen
 
 ## Dock
