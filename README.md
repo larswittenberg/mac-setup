@@ -213,6 +213,8 @@
 * [NearDrop - An unofficial Google Nearby Share app for macOS (AirDrop Klon)](https://github.com/grishka/NearDrop)
 * [AppLite- Make managing third party applications](https://aerolite.dev/applite)
 * [Cakebrew - The Mac App for Homebrew](https://www.cakebrew.com/)
+* [AnyDesk - Remote Desktop Software](https://anydesk.com/de/downloads/mac-os)
+* [WhatsApp](https://www.whatsapp.com/download?lang=de_DE)
 
 ### Nice to have - Developer Tools
 
