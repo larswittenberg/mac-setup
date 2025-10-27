@@ -385,8 +385,10 @@
   * Patched Hack Font Download siehe oben
 * [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
 * [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
-* [iTerm2 - how to pimp yout macOS terminal](https://www.aptgetupdate.de/2017/04/12/howto-iterm2-pimp-your-macos-terminal/)
 * [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
+
+zsh-autosuggestions: Dieses Plugin schlägt Befehle basierend auf deinem Verlauf vor, während du tippst.
+`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
 ### FileZilla
 
