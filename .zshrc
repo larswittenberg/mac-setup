@@ -61,6 +61,7 @@ ZSH_THEME=cobalt2
 plugins=(
   git
   zsh-autosuggestions
+  zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh

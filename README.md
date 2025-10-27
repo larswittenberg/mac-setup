@@ -387,8 +387,16 @@
 * [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
 * [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
 
-zsh-autosuggestions: Dieses Plugin schlägt Befehle basierend auf deinem Verlauf vor, während du tippst.
+#### Oh-My-Zsh Plugins installieren
+
+`zsh-autosuggestions`: Dieses Plugin schlägt Befehle basierend auf deinem Verlauf vor, während du tippst.
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+`zsh-syntax-highlighting`: Dieses Plugin färbt Befehle, Parameter und Optionen während der Eingabe. Es signalisiert dir sofort, ob ein Befehl existiert (oft grün) oder falsch ist (oft rot).
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+
+* In der `~/.zshrc` Datei die Plugins Sektion anpassen:
+  `plugins=(git zsh-autosuggestions zsh-syntax-highlighting)`
 
 ### FileZilla
 
