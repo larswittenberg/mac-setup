@@ -177,6 +177,7 @@
 * Apps mit Homebrew installieren: `brew install google-chrome firefox the-unarchiver vlc iterm2 appcleaner`
 
 * [Raycast](https://raycast.com/) `brew install raycast`
+* [Rocket Typist](https://www.witt-software.com/rockettypist/)
 * [BitWarden - Passwort-Manager macOS App](https://bitwarden.com/download/) `brew install bitwarden`
 * [MarkEdit for Markdown - Markdown-Editor](https://apps.apple.com/app/id1669953820) `brew install markedit`
 * [Maccy - Clipboard manager for macOS](https://maccy.app/) `brew install maccy`
@@ -190,7 +191,6 @@
 
 * [Plain Text Editor - Text-Editor](https://sindresorhus.com/plain-text-editor)
 * [Dropover - Drag & Drop Tool](https://apps.apple.com/de/app/dropover-m%C3%BChelose-drag-drop/id1355679052?mt=12)
-* [Rocket Typist](https://apps.apple.com/de/app/rocket-typist/id6463636684)
 
 ### Google Apps / Websites als App installieren
 
