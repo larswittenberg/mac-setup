@@ -68,6 +68,10 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+# Zsh Keybindings für Option + Pfeil (Wortsprung) in iTerm2
+bindkey '\e[1;3D' backward-word
+bindkey '\e[1;3C' forward-word
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
