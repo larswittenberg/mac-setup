@@ -379,10 +379,10 @@
 
 ### iTerm2 + ZSH
 
-* Theme Neu 2021: [Sindre Sorhus' Snazzy color theme.](https://github.com/sindresorhus/iterm2-snazzy)
+* Theme Neue 2025: [Halcyon Theme](https://github.com/bchiang7/halcyon-iterm)
+* [Powerline fonts](https://github.com/powerline/fonts) > Source Code Pro patched for Powerline installieren
+* ~~Theme Neu 2021: [Sindre Sorhus' Snazzy color theme.](https://github.com/sindresorhus/iterm2-snazzy)~~
 * Cobalt2 Theme von Wes Bos [Anleitung](https://github.com/wesbos/Cobalt2-iterm)
-  * Powerline Schritt übersprungen
-  * Patched Hack Font Download siehe oben
 * [trash - Dateien & Ordner 'in Papierkorb' löschen](https://github.com/sindresorhus/trash)
 * [Set the iTerm tab title to the current directory, not full path](https://gist.github.com/phette23/5270658)
 * [Settings to emojify and prettify your terminal (iTerm2 & ZSH)](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
